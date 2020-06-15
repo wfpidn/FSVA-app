@@ -1,0 +1,11 @@
+{
+    "title": "Read the FSVA reports online",
+    "background": "#7FA128",
+    "cover": "/stories/jatim/pdf-cover.jpg",
+    "links": [
+        {
+            "label": "FSVA report - Bahasa Indonesia",
+            "path": "/public/attachments/fsva_full_jatim_id.pdf"
+        }
+    ]
+}

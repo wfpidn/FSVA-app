@@ -1,0 +1,95 @@
+{
+    "indicators": [
+        {
+            "range": {
+                "max": 95.42,
+                "type": "local",
+                "min": 0.06
+            },
+            "description": "Rasio Konsumsi Normatif per kapita Terhadap Produksi",
+            "id": "NCPR",
+            "label": "NCPR"
+        },
+        {
+            "range": {
+                "max": 53.47,
+                "min": 2.46
+            },
+            "description": "Penduduk hidup di bawah garis kemiskinan (%)",
+            "id": "POV",
+            "label": "Kemiskinan"
+        },
+        {
+            "range": {
+                "max": 99.6,
+                "min": 0.17
+            },
+            "description": "Desa tanpa jalan penghubung antar desa yang dapat diakses oleh kendaraan roda empat atau tanpa jalur transportasi (%)",
+            "id": "RWA",
+            "label": "Akses terhadap Jalan dan Air"
+        },
+        {
+            "range": {
+                "max": 100,
+                "min": 0.06
+            },
+            "description": "Rumah tangga tanpa akses terhadap listrik (%)",
+            "id": "ELEC",
+            "label": "Akses ke Listrik"
+        },
+        {
+            "range": {
+                "max": 98.85,
+                "min": 0.16
+            },
+            "description": "Rumah tangga tanpa akses ke air bersih dengan jarak ke jamban minimal 10 m (%)",
+            "id": "CW",
+            "label": "Air Bersih"
+        },
+        {
+            "range": {
+                "max": 75.79,
+                "min": 57.5
+            },
+            "description": "Angka harapan hidup pada saat lahir (tahun)",
+            "id": "LIFE",
+            "label": "Angka harapan hidup"
+        },
+        {
+            "range": {
+                "max": 89.1,
+                "min": 0.1
+            },
+            "description": "Desa dengan jarak lebih dari 5 km dari fasilitas kesehatan (%)",
+            "id": "HLTH",
+            "label": "Akses ke Fasilitas Kesehatan"
+        },
+        {
+            "range": {
+                "max": 89.38,
+                "min": 0.09
+            },
+            "description": "Perempuan di atas 15 tahun yang tidak dapat membaca atau menulis huruf latin (%)",
+            "id": "ILLI",
+            "label": "Perempuan buta huruf"
+        },
+        {
+            "range": {
+                "max": 6,
+                "colors": {
+                    "4": "#FFD93E",
+                    "1": "#6E1F1F",
+                    "5": "#94C945",
+                    "6": "#3B703B",
+                    "2": "#E85961",
+                    "3": "#FFFF7A"
+                },
+                "min": 0,
+                "step": 1
+            },
+            "description": "Kabupaten Prioritas",
+            "id": "PRIO",
+            "label": "Kabupaten Prioritas"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "map": {
+        "extent": {
+            "xmin": 129.03,
+            "ymin": -9.0,
+            "xmax": 141.02,
+            "ymax": 0.9
+        }
+    },
+    "modules": [
+        "/pages/map/esri-map",
+        "/pages/map/header",
+        "/pages/map/map-click-error"
+    ],
+    "messages": {
+        "popup.click": "Data profil dan tren tiap kecamatan tidak tersedia untuk indicator ini. Pilih indicator lain di bawah Ketersediaan Pangan, Akses terhadap Pangan dan Pemanfaatan Pangan untuk melihat data profil dan tren tiap kecamatan."
+    }
+}

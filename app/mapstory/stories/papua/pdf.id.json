@@ -1,0 +1,11 @@
+{
+    "title": "Membaca laporan FSVA online",
+    "background": "#7FA128",
+    "cover": "/stories/papua/pdf-cover.jpg",
+    "links": [
+        {
+            "label": "Laporan FSVA – Bahasa Indonesia",
+            "path": "/public/attachments/fsva_full_papua_id.pdf"
+        }
+    ]
+}

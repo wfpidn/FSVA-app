@@ -1,0 +1,25 @@
+{
+    "default": "main",
+    "stories": [
+        {
+            "id": "main",
+            "label": "Indonesia"
+        },
+        {
+            "id": "jatim",
+            "label": "Jawa Timur"
+        },
+        {
+            "id": "papua",
+            "label": "Papua"
+        },
+        {
+            "id": "ntt",
+            "label": "Nusa Tenggara Timur"
+        },
+        {
+            "id": "ntb",
+            "label": "Nusa Tenggara Barat"
+        }
+    ]
+}

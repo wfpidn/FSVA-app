@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <style>
+     html, body, #image {
+         width: 100%;
+         height: 100%;
+         padding: 0;
+         margin: 0;
+     }
+     #image_container {
+         position: absolute;
+         top: 0;
+         right: 0;
+         bottom: 0;
+         left: 450px;
+     }
+     #image {
+         background-size: contain;
+         background-repeat: no-repeat;
+     }
+    </style>
+  </head>
+  <body>
+    <div id="image_container">
+      <div id="image"></div>
+    </div>
+    <script src="/public/dist/vendor.js"></script>
+    <script src="/public/dist/static.js"></script>
+    <script>
+     var $ = window.app.libs.jQuery;
+
+     $(document).ready(window.app.tellReady);
+     $(document).on('click', window.app.tellClicked);
+
+     var params = $.extend(
+       {
+         left: '450px',
+         image: null,
+         background: 'transparent'
+       }
+       , window.app.params);
+
+     $(document.body).css('background', params.background);
+     $(image_container).css('left', params.left);
+     if (params.image) {
+       $('#image').css('background-image', 'url("' + params.image + '")');
+     }
+    </script>
+  </body>
+</html>

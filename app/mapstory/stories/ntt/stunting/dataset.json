@@ -1,0 +1,506 @@
+[
+    {
+        "districtId": 5301,
+        "province": "Nusa Tenggara Timur",
+        "value": 49.1,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat"
+    },
+    {
+        "districtId": 5301,
+        "province": "Nusa Tenggara Timur",
+        "value": 69.4732626963467,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat"
+    },
+    {
+        "districtId": 5301,
+        "province": "Nusa Tenggara Timur",
+        "value": 55.3495267610795,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat"
+    },
+    {
+        "districtId": 5302,
+        "province": "Nusa Tenggara Timur",
+        "value": 42.3,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sumba Timur"
+    },
+    {
+        "districtId": 5302,
+        "province": "Nusa Tenggara Timur",
+        "value": 59.8517110398262,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sumba Timur"
+    },
+    {
+        "districtId": 5302,
+        "province": "Nusa Tenggara Timur",
+        "value": 51.3075113114472,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sumba Timur"
+    },
+    {
+        "districtId": 5303,
+        "province": "Nusa Tenggara Timur",
+        "value": 51.4,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Kupang"
+    },
+    {
+        "districtId": 5303,
+        "province": "Nusa Tenggara Timur",
+        "value": 72.7276110507581,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Kupang"
+    },
+    {
+        "districtId": 5303,
+        "province": "Nusa Tenggara Timur",
+        "value": 46.2195164866264,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Kupang"
+    },
+    {
+        "districtId": 5304,
+        "province": "Nusa Tenggara Timur",
+        "value": 57,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Selatan"
+    },
+    {
+        "districtId": 5304,
+        "province": "Nusa Tenggara Timur",
+        "value": 80.6512418267162,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Selatan"
+    },
+    {
+        "districtId": 5304,
+        "province": "Nusa Tenggara Timur",
+        "value": 70.4308106903246,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Selatan"
+    },
+    {
+        "districtId": 5305,
+        "province": "Nusa Tenggara Timur",
+        "value": 59.6,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Utara"
+    },
+    {
+        "districtId": 5305,
+        "province": "Nusa Tenggara Timur",
+        "value": 84.3300704012682,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Utara"
+    },
+    {
+        "districtId": 5305,
+        "province": "Nusa Tenggara Timur",
+        "value": 39.9379195825505,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Timor Tengah Utara"
+    },
+    {
+        "districtId": 5306,
+        "province": "Nusa Tenggara Timur",
+        "value": 43.4,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Belu"
+    },
+    {
+        "districtId": 5306,
+        "province": "Nusa Tenggara Timur",
+        "value": 61.4081385136751,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Belu"
+    },
+    {
+        "districtId": 5306,
+        "province": "Nusa Tenggara Timur",
+        "value": 38.569406146566,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Belu"
+    },
+    {
+        "districtId": 5307,
+        "province": "Nusa Tenggara Timur",
+        "value": 48.3,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Alor"
+    },
+    {
+        "districtId": 5307,
+        "province": "Nusa Tenggara Timur",
+        "value": 68.3413154426385,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Alor"
+    },
+    {
+        "districtId": 5307,
+        "province": "Nusa Tenggara Timur",
+        "value": 55.6635772084318,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Alor"
+    },
+    {
+        "districtId": 5308,
+        "province": "Nusa Tenggara Timur",
+        "value": 40.9,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Lembata"
+    },
+    {
+        "districtId": 5308,
+        "province": "Nusa Tenggara Timur",
+        "value": 57.8708033458367,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Lembata"
+    },
+    {
+        "districtId": 5308,
+        "province": "Nusa Tenggara Timur",
+        "value": 55.0815058621398,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Lembata"
+    },
+    {
+        "districtId": 5309,
+        "province": "Nusa Tenggara Timur",
+        "value": 40.8,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Flores Timur"
+    },
+    {
+        "districtId": 5309,
+        "province": "Nusa Tenggara Timur",
+        "value": 57.7293099391232,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Flores Timur"
+    },
+    {
+        "districtId": 5309,
+        "province": "Nusa Tenggara Timur",
+        "value": 44.2474403930885,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Flores Timur"
+    },
+    {
+        "districtId": 5310,
+        "province": "Nusa Tenggara Timur",
+        "value": 49.6,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sikka"
+    },
+    {
+        "districtId": 5310,
+        "province": "Nusa Tenggara Timur",
+        "value": 70.1807297299144,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sikka"
+    },
+    {
+        "districtId": 5310,
+        "province": "Nusa Tenggara Timur",
+        "value": 41.259266040511,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sikka"
+    },
+    {
+        "districtId": 5311,
+        "province": "Nusa Tenggara Timur",
+        "value": 42.2,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Ende"
+    },
+    {
+        "districtId": 5311,
+        "province": "Nusa Tenggara Timur",
+        "value": 59.7102176331127,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Ende"
+    },
+    {
+        "districtId": 5311,
+        "province": "Nusa Tenggara Timur",
+        "value": 35.9905232219296,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Ende"
+    },
+    {
+        "districtId": 5312,
+        "province": "Nusa Tenggara Timur",
+        "value": 46.8,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Ngada"
+    },
+    {
+        "districtId": 5312,
+        "province": "Nusa Tenggara Timur",
+        "value": 66.2189143419354,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Ngada"
+    },
+    {
+        "districtId": 5312,
+        "province": "Nusa Tenggara Timur",
+        "value": 62.1394056076815,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Ngada"
+    },
+    {
+        "districtId": 5313,
+        "province": "Nusa Tenggara Timur",
+        "value": 38.3,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Manggarai"
+    },
+    {
+        "districtId": 5313,
+        "province": "Nusa Tenggara Timur",
+        "value": 54.1919747712847,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Manggarai"
+    },
+    {
+        "districtId": 5313,
+        "province": "Nusa Tenggara Timur",
+        "value": 58.7818980870174,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Manggarai"
+    },
+    {
+        "districtId": 5314,
+        "province": "Nusa Tenggara Timur",
+        "value": 54.2,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Rote Ndao"
+    },
+    {
+        "districtId": 5314,
+        "province": "Nusa Tenggara Timur",
+        "value": 76.6894264387372,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Rote Ndao"
+    },
+    {
+        "districtId": 5314,
+        "province": "Nusa Tenggara Timur",
+        "value": 55.3750024819086,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Rote Ndao"
+    },
+    {
+        "districtId": 5315,
+        "province": "Nusa Tenggara Timur",
+        "value": 52.2,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Manggarai Barat"
+    },
+    {
+        "districtId": 5315,
+        "province": "Nusa Tenggara Timur",
+        "value": 73.8595583044664,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Manggarai Barat"
+    },
+    {
+        "districtId": 5315,
+        "province": "Nusa Tenggara Timur",
+        "value": 49.3094837471745,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Manggarai Barat"
+    },
+    {
+        "districtId": 5316,
+        "province": "Nusa Tenggara Timur",
+        "value": null,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sumba Tengah"
+    },
+    {
+        "districtId": 5316,
+        "province": "Nusa Tenggara Timur",
+        "value": 34.78,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sumba Tengah"
+    },
+    {
+        "districtId": 5316,
+        "province": "Nusa Tenggara Timur",
+        "value": 63.6094212134017,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sumba Tengah"
+    },
+    {
+        "districtId": 5317,
+        "province": "Nusa Tenggara Timur",
+        "value": null,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat Daya"
+    },
+    {
+        "districtId": 5317,
+        "province": "Nusa Tenggara Timur",
+        "value": 35.13,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat Daya"
+    },
+    {
+        "districtId": 5317,
+        "province": "Nusa Tenggara Timur",
+        "value": 61.2169800753785,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sumba Barat Daya"
+    },
+    {
+        "districtId": 5318,
+        "province": "Nusa Tenggara Timur",
+        "value": null,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Nagekeo"
+    },
+    {
+        "districtId": 5318,
+        "province": "Nusa Tenggara Timur",
+        "value": 34.95,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Nagekeo"
+    },
+    {
+        "districtId": 5318,
+        "province": "Nusa Tenggara Timur",
+        "value": 44.3267255966536,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Nagekeo"
+    },
+    {
+        "districtId": 5319,
+        "province": "Nusa Tenggara Timur",
+        "value": null,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Manggarai Timur"
+    },
+    {
+        "districtId": 5319,
+        "province": "Nusa Tenggara Timur",
+        "value": 34.8,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Manggarai Timur"
+    },
+    {
+        "districtId": 5319,
+        "province": "Nusa Tenggara Timur",
+        "value": 58.9202667050417,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Manggarai Timur"
+    },
+    {
+        "districtId": 5320,
+        "province": "Nusa Tenggara Timur",
+        "value": null,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Sabu Raijua"
+    },
+    {
+        "districtId": 5320,
+        "province": "Nusa Tenggara Timur",
+        "value": 35.01,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Sabu Raijua"
+    },
+    {
+        "districtId": 5320,
+        "province": "Nusa Tenggara Timur",
+        "value": 62.4861379879877,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Sabu Raijua"
+    },
+    {
+        "districtId": 5371,
+        "province": "Nusa Tenggara Timur",
+        "value": 32.5,
+        "year": 2007,
+        "indicatorId": "STUN",
+        "district": "Kota Kupang"
+    },
+    {
+        "districtId": 5371,
+        "province": "Nusa Tenggara Timur",
+        "value": 45.9853571818996,
+        "year": 2010,
+        "indicatorId": "STUN",
+        "district": "Kota Kupang"
+    },
+    {
+        "districtId": 5371,
+        "province": "Nusa Tenggara Timur",
+        "value": 36.7742945998694,
+        "year": 2013,
+        "indicatorId": "STUN",
+        "district": "Kota Kupang"
+    }
+]

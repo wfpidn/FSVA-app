@@ -1,0 +1,291 @@
+{
+    "title": "Indonesia - Peta Ketahanan dan Kerentanan Pangan 2015",
+    "defaultSectionId": 1,
+    "sections": [
+        {
+            "url": "/pages/static/image/index.html",
+            "id": 0,
+            "title": "Latar Belakang FSVA interaktif",
+            "params": {
+                "image": "/stories/main/intro.jpg",
+                "background": "#D9CFB1"
+            },
+            "parent": null,
+            "content": "<p>Sejak tahun 2013, Pemerintah Indonesia bekerja sama dengan WFP untuk meningkatkan pemahaman tentang situasi ketahanan pangan di Indonesia -termasuk di tingkat daerah- melalui pengembangan Peta Ketahanan dan Kerentanan Pangan (Food Security and Vulnerability Atlas/FSVA). Atlas ini merupakan alat yang penting untuk meningkatkan pentargetan program dan perencanaan kebijakan yang bertujuan untuk meningkatkan ketahanan pangan dan gizi di seluruh Indonesia. FSVA 2015 merupakan publikasi terbaru dari hasil kerjasama ini.</p>\n\n<p>FSVA menggunakan 13 indikator yang tersedia di tingkat kabupaten, yang mampu mengukur berbagai aspek ketahanan pangan dan gizi. FSVA membagi indikator-indikator tersebut menjadi dua kelompok indikator: kerawanan pangan dan gizi <strong>kronis</strong> dan kerawanan pangan <strong>transien</strong>. Indikator kerawanan pangan kronis mengukur <strong> aspek ketersediaan pangan, akses pangan </strong>and<strong> pemanfaatan pangan</strong>. Indikator transien menjelaskan <strong> faktor iklim dan lingkungan </strong> yang mempengaruhi kerawanan pangan<strong> </strong>dari aspek ketersediaan dan akses pangan. Kemudian untuk menjelaskan secara keseluruhan <strong>peringkat kondisi ketahanan pangan kabupaten, maka diperlukan analisis komposit yang merupakan kombinasi dari sembilan indikator kerawanan pangan kronis tersebut.</strong></p>\n\n<p>Kerangka konseptual ketahanan pangan dan gizi sebagaimana disajikan gambar disamping merupakan landasan analisis FSVA. Kerangka konseptual tersebut dibangun berdasarkan tiga pilar ketahanan pangan - ketersediaan pangan, akses pangan dan pemanfaatan pangan \u2013 serta mengintegrasikan gizi dan kerentanan di dalam keseluruhan pilar tersebut. Pilar ke empat ketahanan pangan adalah stabilitas pangan. Hal ini tercermin dalam FSVA untuk membandingkan kerawanan pangan kronis dengan kerawanan pangan transien atau akut.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 1,
+            "title": "Gambaran Umum Klasifikasi Ketahanan Pangan Kabupaten",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/PRIO.json"
+                ]
+            },
+            "parent": null,
+            "content": "<p>Selain analisis indikator individu, dikembangkan juga indikator komposit yang mencerminkan situasi ketahanan pangan dan gizi secara keseluruhan dan digunakan untuk mengklasifikasikan kabupaten-kabupaten dalam enam kelompok prioritas. Kabupaten-kabupaten di kelompok Prioritas 1 dan 2 cenderung sangat rentan terhadap kerawanan pangan dan gizi; kabupaten-kabupaten Prioritas 3 dan 4 termasuk kategori sedang; dan kabupaten-kabupaten di Prioritas 5 dan 6 merupakan kabupaten-kabupaten yang paling tahan pangan. Penting untuk diingat bahwa sebagai dampak dari keragaman, maka tidak semua rumah tangga di kabupaten-kabupaten prioritas tinggi (Prioritas 1 \u2013 2) tergolong rawan pangan, demikian juga tidak semua rumah tangga di kabupaten-kabupaten prioritas rendah (Prioritas 5 - 6) tergolong tahan pangan.</p>\n\n<p>Metodologi untuk menyusun peringkat dan mengelompokkan kabupaten ke dalam prioritas-prioritas dimutakhirkan pada atlas 2015 ini dengan memasukkan Analisis Gerombol (Cluster Analysis) dan Analisis Diskriminan (Discriminant Analysis) sebagai tambahan pada metode Analisis Komponen Utama (Principal Component Analysis/PCA) yang digunakan pada atlas \u2013 atlas sebelumnya. Analisis Komponen Utama digunakan untuk mengetahui bobot masing-masing indikator individu di dalam analisis komposit sedangkan analisis gerombol dan diskriminan digunakan untuk mengelompokkan masing-masing kabupaten kedalam salah satu dari enam kelompok prioritas. Kombinasi ketiga metodologi tersebut meningkatkan obyektifitas dan kepercayaan hasil analisis ini.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 2,
+            "title": "Ketersediaan Pangan",
+            "params": {
+                "sectionId": 3,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Ketersediaan pangan adalah kondisi tersedianya pangan (termasuk pangan kaya gizi) dari hasil produksi dalam negeri, cadangan pangan, serta pemasukan pangan, termasuk didalamnya impor dan bantuan pangan, apabila kedua sumber utama tidak dapat memenuhi kebutuhan. Mengingat sebagian besar bahan pangan yang diproduksi maupun di impor harus masuk terlebih dahulu ke pasar sebelum sampai ke rumah tangga, maka infrastruktur pasar, distribusi dan perdagangan akan terkait erat dengan ketersediaan pada tingkat regional dan lokal. Sebagai negara kepulauan, faktor kurangnya infrastruktur dan kelancaran distribusi merupakan tantangan yang besar di Indonesia.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 3,
+            "title": "Rasio konsumsi terhadap produksi",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/NCPR.json"
+                ]
+            },
+            "parent": 2,
+            "content": "<p>Indikator FSVA yang mengukur aspek ketersediaan pangan adalah rasio antara konsumsi serealia per kapita dan produksi. Indikator ini difokuskan pada produksi serealia dan umbi-umbian (padi, jagung, ubi kayu dan ubi jalar) yang mencakup 398 kabupaten. Ke empat komoditas serealia ini dipilih karena keterbatasan data komoditas lainnya dan komoditas ini menyediakan hampir 50 persen dari asupan kebutuhan energi per hari pada rata-rata konsumsi pangan orang Indonesia. Indikator tersebut digunakan untuk mengukur jumlah produksi pangan yang kaya energi, tetapi tidak melihat dari sisi ketersediaan pangan lokal yang kaya gizi. Analisis ini juga tidak memperhitungkan sumber pangan hewani, kacang-kacangan, buah-buahan dan komoditas yang kaya gizi lainnya yang dihasilkan pada tingkat kabupaten.&nbsp;&nbsp;</p>\n\n<p>Produksi serealia di 398 kabupaten dihitung dengan mengambil rata-rata produksi padi, jagung, ubi kayu dan ubi jalar masing-masing selama tiga tahun produksi (2011-2013). Data rata-rata produksi bersih serealia dihitung dengan menggunakan faktor konversi standar (benih, pakan dan tercecer). Khusus rata-rata produksi bersih ubi kayu dan ubi jalar dibagi dengan 3 (nilai kalori 3 kg ubi kayu atau ubi jalar setara dengan 1 kg beras atau jagung) untuk mendapatkan nilai yang ekuivalen dengan serealia (BKP, 2012). Selanjutnya dihitung total produksi serealia yang tersedia untuk di konsumsi. Ketersediaan bersih serealia per kapita dihitung dengan membagi total produksi serealia di kabupaten tertentu dengan perkiraan jumlah penduduk pada pertengahan tahun 2012. Kemudian dihitung rasio konsumsi normatif per kapita terhadap produksi bersih serealia. Berdasarkan profil konsumsi Indonesia, konsumsi normatif serealia per kapita per hari adalah 300 gram. Data ketersediaan bersih serealia dari perdagangan (ekspor dan impor) tidak dihitung karena data tersebut tidak tersedia di tingkat kabupaten.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 4,
+            "title": "Akses terhadap Pangan",
+            "params": {
+                "sectionId": 5,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Akses pangan berhubungan dengan kemampuan rumah tangga untuk memperoleh cukup pangan, baik yang berasal dari produksi sendiri, stok, pembelian, barter, hadiah, pinjaman dan bantuan pangan. Pangan mungkin tersedia secara fisik di suatu daerah, akan tetapi tidak dapat diakses oleh rumah tangga tertentu karena terbatasnya: i) akses fisik: infrastruktur pasar, akses untuk mencapai pasar dan fungsi pasar; ii) akses ekonomi: kemampuan keuangan untuk membeli makanan yang cukup dan bergizi; dan/atau iii) akses sosial: modal sosial yang dapat digunakan untuk mendapatkan mekanisme dukungan informal seperti barter, meminjam atau adanya program dukungan sosial.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 5,
+            "title": "Desa tanpa jalan penghubung antar desa yang dapat diakses oleh kendaraan roda empat atau tanpa jalur transportasi air",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/RWA.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Infrastruktur transportasi dan gudang penyimpanan adalah hal penting dalam ketahanan pangan dan gizi. Keseluruhan rantai pasokan pangan membutuhkan infrastruktur udara, pelabuhan dan jalan yang baik untuk mengangkut bahan pangan tepat waktu dengan biaya yang efektif. Sebagai negara kepulauan yang memiliki lebih dari 13.400 pulau, Indonesia menghadapi tantangan yang besar untuk memastikan rantai pasokan pangan yang mudah dan murah. Indonesia sedang mengembangkan fasilitas transportasi udara, darat dan laut yang efisien dan terintegrasi yang memungkinkan lebih banyak jenis pangan dapat diangkut atau diperdagangkan antar pulau dengan meminimalkan tingkat kerusakan.</p>\n\n<p>FSVA menganalisis tingkat konektivitas level kabupaten berdasarkan data potensi desa yang memiliki akses ke jalan yang dapat dilalui kendaraan roda empat dan akses terhadap transportasi air yang dapat dilalui perahu sepanjang tahun. Data ini berasal dari Survei Potensi Desa 2014 (PODES).</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 6,
+            "title": "Akses terhadap listrik",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/ELEC.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Rumah tangga&rsquo; Akses terhadap listrik merupakan suatu indikator pendekatan yang baik untuk melihat tingkat kesejahteraan ekonomi dan peluang bagi kondisi kehidupan rumah tangga yang lebih baik. Indikator yang digunakan dalam FSVA adalah persentase rumah tangga yang tidak memiliki akses terhadap listrik dari PLN dan/atau non PLN, misalnya generator berdasarkan data Survei Sosial Ekonomi Nasional 2013 (SUSENAS). Pada tahun 2013, rumah tangga yang memiliki akses listrik sebesar 96,54 persen atau meningkat 5,54 persen dari tahun 2007 (91,5 persen).&nbsp;Namun demikian, kesenjangan antar daerah juga semakin tinggi, di mana proporsi rumah tangga tanpa akses listrik yang terendah berada di DKI Jakarta (kurang dari satu persen) dan tertinggi di Papua (54,38 persen).</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 7,
+            "title": "Penduduk hidup di bawah garis kemiskinan",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/POV.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Dengan menggunakan data SUSENAS terkini yang tersedia, Kemiskinan di definisikan sebagai nilai rupiah pengeluaran per kapita setiap bulan untuk memenuhi standar minimum kebutuhan-kebutuhan konsumsi pangan dan non pangan yang dibutuhkan oleh seorang individu untuk hidup secara layak. Garis kemiskinan nasional sebesar Rp 308.826 per kapita per bulan di daerah perkotaan dan Rp 275.779 di pedesaan pada tahun 2013. FSVA menganalisis persentase penduduk per kabupaten yang hidup di bawah garis kemiskinan nasional.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 8,
+            "title": "Pemanfaatan Pangan",
+            "params": {
+                "sectionId": 9,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Pemanfaatan pangan meliputi: i) pemanfaatan pangan yang bisa diakses oleh rumah tangga; dan ii) kemampuan individu untuk menyerap zat gizi \u2013 pemanfaatan makanan secara efisien oleh tubuh. Aspek pemanfaatan pangan tergantung pada: i) fasilitas penyimpanan dan pengolahan makanan; ii) pengetahuan dan praktek yang berhubungan dengan penyiapan makanan, pemberian makanan untuk balita dan anggota keluarga lainnya termasuk yang sedang sakit atau sudah tua yang dipengaruhi oleh tingkat pengetahuan ibu atau pengasuh serta adat/ kepercayaan; iii) distribusi makanan dalam anggota keluarga; dan iv) kondisi kesehatan masing-masing individu yang mungkin menurun karena penyakit, kebersihan, air dan sanitasi yang buruk serta kurangnya akses ke fasilitas dan pelayanan kesehatan.</p>\n\n<p>Indikator-indikator ini dipilih untuk analisis aspek pemanfaatan pangan FSVA karena pengaruhnya terhadap pemanfaatan zat-zat gizi oleh tubuh, akhirnya berdampak pada status kesehatan dan gizi individu serta berdasarkan ketersediaan data.&nbsp;</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 9,
+            "title": "Desa dengan akses ke fasilitas kesehatan lebih dari 5 kilometer",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/HLTH.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Dengan menggunakan data Survei Potensi Desa 2014 (PODES), FSVA menganalisis kondisi tiap kabupaten berdasarkan persentase desa dengan jarak lebih dari 5 kilometer dari fasilitas kesehatan. Fasilitas kesehatan ini di antara nya adalah: rumah sakit, klinik, puskesmas, dll.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 10,
+            "title": "Rumah tangga tanpa akses ke air bersih dengan mempertimbangkan jarak lebih dari 10 meter dari septic tank yang aman untuk air minum",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/CW.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Akses ke air bersih yang aman untuk air minum di definisikan sebagai sumber air minum yang berasal dari leding meteran, leding eceran, sumur bor/pompa, sumur terlindung, mata air terlindung dan air hujan dengan memperhatikan jarak ke jamban minimal 10 meter.&nbsp; Indikator ini berdasarkan analisis data SUSENAS 2013 untuk tiap kabupaten yaitu persentase rumah tangga tanpa akses ke air bersih.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 11,
+            "title": "Tingkat buta huruf perempuan dengan usia 15 tahun ke atas",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/ILLI.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Melek huruf perempuan terutama ibu dan pengasuh anak balita, diketahui menjadi faktor penentu yang sangat penting dalam pemanfaatan pangan dan sangat berpengaruh terhadap status kesehatan dan gizi setiap anggota keluarga. Studi di berbagai negara menunjukkan bahwa di negara berkembang, tingkat pendidikan dan pengetahuan ibu tentang gizi berkorelasi kuat dengan status gizi anaknya. Untuk menggambarkan aspek pemanfaatan pangan dan pola asuh, FSVA menggunakan indikator persentase perempuan di atas 15 tahun yang tidak dapat membaca atau menulis huruf latin berdasarkan data SUSENAS 2013.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 12,
+            "title": "Prevalensi dari anak di bawah 5 tahun yang memiliki tinggi badan kurang",
+            "params": {
+                "config": [
+                    "/stories/main/stunting/STUN.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Kurang gizi kronis (stunting) berhubungan dengan pertumbuhan janin yang buruk dan pertumbuhan yang terhambat selama dua tahun pertama kehidupan (1.000 Hari Pertama Kehidupan), umumnya disebabkan oleh kombinasi asupan zat gizi yang kurang, keterpaparan yang tinggi terhadap penyakit dan praktek pola asuh yang kurang baik. Disamping meningkatnya resiko kematian anak, kurang gizi kronis dapat menyebabkan kegagalan pertumbuhan yang tidak dapat diperbaiki termasuk terhambatnya perkembangan mental dan fisik, yang dapat mempengaruhi kehadiran dan prestasi anak di sekolah, kapasitas untuk mendapatkan penghasilan yang lebih tinggi saat dewasa, sehingga berpotensi untuk meningkatkan kemiskinan. Selain itu, anak kurang gizi yang mengalami peningkatan berat badan secara cepat pada akhir masa kanak-kanak dan remaja lebih cenderung untuk menderita penyakit kronis (obesitas, diabetes, hipertensi dan penyakit jantung) yang berhubungan dengan masalah gizi.</p>\n\n<p>Dengan menggunakan data Riset Kesehatan Dasar 2013 (RISKESDAS), FSVA menganalisis kondisi tiap provinsi berdasarkan persentase anak di bawah lima tahun yang tinggi badannya kurang dari -2 Standar Deviasi (-2 SD) dengan indeks tinggi badan menurut umur (TB/U) dari referensi khusus untuk tinggi badan terhadap usia dan jenis kelamin dari WHO.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 13,
+            "title": "Angka harapan hidup",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/LIFE.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Angka harapan hidup merupakan dampak dari status kesehatan dan gizi. Dengan menggunakan data SUSENAS 2013, FSVA menggunakan indikator perkiraan lama hidup rata-rata bayi baru lahir dengan asumsi tidak ada perubahan pola mortalitas sepanjang hidupnya sebagai proxy indikator aspek pemanfaatan pangan lainnya.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 14,
+            "title": "Faktor Iklim dan Lingkungan yang Berpengaruh Terhadap Ketahanan Pangan",
+            "params": {
+                "sectionId": 15,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Kerentanan terhadap bencana alam dan gangguan mendadak lainnya dapat mempengaruhi ketahanan pangan dan gizi suatu wilayah baik bersifat sementara maupun jangka waktu panjang. Ketidakmampuan untuk memenuhi kebutuhan pangan secara sementara dikenal sebagai kerawanan pangan sementara (transient food insecurity). Bencana alam yang terjadi tiba-tiba, maupun perubahan harga atau goncangan terhadap pasar, epidemik penyakit, konflik sosial dan lain-lain dapat menyebabkan terjadinya kerawanan pangan transien (sementara).</p>\n\n<p>Kerawanan pangan transien dapat juga dibagi menjadi dua yaitu: Berulang (cyclical), di mana terdapat suatu pola yang berulang terhadap kondisi rawan pangan, misalnya, \u201cmusim paceklik\u201d yang terjadi dalam periode sebelum panen, dan Temporal (temporary), yang merupakan hasil dari suatu gangguan mendadak dari luar pada jangka pendek seperti kekeringan atau banjir. Konflik sipil juga termasuk dalam kategori goncangan (shock) temporal walaupun dampak negatifnya terhadap ketahanan pangan dapat berlanjut untuk jangka waktu lama. Dengan kata lain, kerawanan pangan transien dapat mempengaruhi orang-orang yang berada pada kondisi rawan pangan kronis dan juga orang-orang yang berada pada keadaan tahan pangan.</p>\n\n<p>Di dalam bab ini kerawanan pangan dianalisa dari segi iklim dan lingkungan. Faktor iklim dan lingkungan serta kemampuan masyarakat untuk mengatasi goncangan sangat menentukan apakah suatu negara atau wilayah dapat mencapai dan mempertahankan ketahanan pangan dan gizinya. Tinjauan ketahanan pangan dan gizi ini berdasarkan pada dampak dari berbagai bencana alam dan degradasi lingkungan terhadap ketersediaan dan akses pangan. Deforestasi hutan, variabilitas curah hujan dan daerah yang terkena banjir dan tanah longsor, merupakan beberapa indikator yang digunakan dalam bab ini untuk menjelaskan kerawanan pangan transien di Indonesia.</p>\n\n<p>Untuk melakukan analisa komprehensif terhadap kondisi iklim yang mempengaruhi kerawanan pangan transien, empat faktor utama dianalisa dalam FSVA 2015 yaitu: i) data kejadian bencana alam yang terjadi di tingkat kabupaten; ii) estimasi kehilangan produksi padi akibat banjir dan kekeringan; iii) tingkat deforestasi hutan; dan iv) kekuatan pengaruh El Ni\u00f1o/Southern Oscillation (ENSO) yang menyebabkan variabilitas curah hujan.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 15,
+            "title": "Jumlah bencana alam dengan dampak potensial pada akses dan pemanfaatan pangan dari tahun 2000 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ND.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Berdasarkan data dari pemerintah, terjadi lebih dari 12,700 kejadian bencana alam selama periode tahun 2000-2013 yang telah menyebabkan lebih dari 183.100 orang meninggal dunia (Tabel 6.2). Data ini mencatat seluruh jenis kejadian bencana yang meliputi angin topan, banjir, kekeringan, letusan gunung berapi, gempa bumi, tsunami, tanah longsor, abrasi pantai, epidemik, hama tanaman dan kebakaran hutan. Pada periode yang sama, kejadian bencana yang paling sering terjadi adalah banjir, angina topan dan tanah longsor, sedangkan gempa bumi dan tsunami merupakan kejadian bencana yang paling fatal yang menyebabkan lebih dari 167.700 orang meninggal.</p><p>Peta di samping menggambarkan jumlah kejadian bencana alam yang berhubungan dengan faktor iklim. Bencana yang berhubungan dengan aktivitas gunung berapi dan seismik (tsunami dan gempa bumi) tidak dimasukan. Dengan demikian peta ini menggambarkan kabupaten-kabupaten yang paling terkena dampak iklim: termasuk beberapa kabupaten yang mungkin bertambah dengan meningkatnya kejadian iklim ekstrim yang makin umum terjadi. Sebagai contoh, provinsi-provinsi di Jawa melaporkan kejadian angin topan, banjir, tanah longsor dan kekeringan yang paling banyak terjadi pada tahun 2000-2013. Namun, harus dicatat bahwa mungkin provinsi-provinsi di Jawa melaporkan data lebih sering dibandingkan dengan provinsi lainnya.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 16,
+            "title": "Variabilitas curah hujan",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/RV.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Variabilitas iklim secara langsung mempengaruhi berbagai aspek ketahanan pangan dan gizi, khususnya ketersediaan dan akses pangan. Variasi curah hujan merupakan salah satu elemen yang berkaitan dengan berbagai kejadian bencana alam \u2013 kekeringan, banjir, angin topan dan tsunami \u2013 dan dipengaruhi oleh berbagai faktor, baik global, regional maupun lokal. Faktor iklim global antara lain El Ni\u00f1o, La Ni\u00f1a dan dipole mode; sedangkan faktor regional antara lain sirkulasi monsun, Madden Julian Oscillation (MJO), dan suhu permukaan laut perairan Indonesia; dan faktor lokal yang berpengaruh adalah ketinggian tempat, posisi bentangan suatu pulau, sirkulasi angin darat dan angin laut serta tutupan lahan suatu wilayah.</p>\n\n<p>Peta ini menggambarkan perubahan curah hujan bulanan yang disebabkan oleh perubahan suhu permukaan laut (SPL) sebesar 1\u00b0C. Daerah yang berwarna merah menunjukkan resiko berkurangannya curah hujan yang sangat tinggi sedangkan warna hijau menunjukkan resiko bertambahnya curah hujan yang sangat tinggi. Setiap piksel pada peta mewakili daerah seluas 50 x 50 km.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 17,
+            "title": "Klasifikasi kabupaten yang mengalami perubahan negatif curah hujan bulanan berdasarkan kekuatan sinyal El-Ni\u00f1o Southern Oscillation",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/NMR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Peta ini mirip dengan peta sebelumnya, akan tetapi peta ini mengklasifikasikan kabupaten-kabupaten berdasarkan rata-rata penurunan curah hujan bulanan yang berhubungan dengan perubahan SPL. Kabupaten-kabupaten yang berwarna merah gelap memiliki perubahan negatif curah hujan terbesar yang berhubungan dengan kenaikan SST. Kabupaten-kabupaten ini membutuhkan pemantauan situasi ketahanan pangan khususnya dalam hubungannya dengan produksi pangan pada tahun-tahun El Nino (tahun kering). Variasi curah hujan cenderung akan merugikan pertanian berkelanjutan kecuali sistem irigasi dan penyimpanan air (waduk atau dam) diperbaiki.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 18,
+            "title": "Rata-rata kehilangan produksi padi akibat kekeringan pada tahun 1990 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ARPD.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Produksi dan produktivitas tanaman pangan sangat dipengaruhi oleh kondisi iklim dan cuaca. Daerah yang rusak didefinisikan sebagai suatu daerah yang produksi pangannya menurun akibat bencana alam (banjir, kekeringan) dan atau penularan hama oleh organisme pengganggu tanaman OPT).&nbsp; Mengingat variabilitas curah hujan memiliki dampak yang besar terhadap kehilangan produksi tanaman pangan di Indonesia, maka dilakukan analisis lanjutan lebih jauh.&nbsp;Dengan menggunakan data dari Kementrian Pertanian, peta ini menunjukkan rata-rata kehilangan produksi padi tahunan yang disebabkan oleh kekeringan pada tahun 1990 - 2013 dalam satuan ton. &nbsp;Daerah dengan warna merah gelap menunjukkan tingkat kehilangan produksi yang tinggi, lebih dari 20,000 ton per tahun pada periode waktu ini. &nbsp;</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 19,
+            "title": "Rata-rata kehilangan produksi padi akibat banjir pada tahun 1990 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ARPF.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Hal yang sama dengan sebelumnya, peta ini juga mengkaji kehilangan produksi dengan menggunakan data dari Kementerian Pertanian, namun secara khusus rata-rata kehilangan produksi padi tahunan akibat banjir pada tahun 1990 - 2013 dalam satuan ton. &nbsp;Sekali lagi, wilayah berwarna  merah gelap mengalami kehilangan produksi paling tinggi, lebih dari 20,000 ton per tahun.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 20,
+            "title": "Deforestasi hutan",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/DF.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Hutan Indonesia memiliki peranan penting dalam penghidupan dan ketahanan pangan dan gizi sebagian besar penduduk Indonesia, khususnya di bagian tengah dan utara dari Sumatera, Kalimantan dan Papua. Hasil-hasil hutan non kayu - binatang liar, tumbuhan, akar-akaran dan lain lain, memberikan kontribusi secara signifikan terhadap pola makan masyarakat setempat, menyediakan zat-zat gizi penting dan juga menjadi sumber utama makanan pada saat musim paceklik atau saat akses sumber pangan lain terbatas.&nbsp;&nbsp;</p>\n\n<p>Data deforetasi hutan berdasarkan analisis citra satelit Landsat yang memiliki resolusi spasial 30 meter untuk periode tahun 2000-2013 yang dilakukan oleh Universitas Maryland. Peta ini menggambarkan laju rata-rata deforestasi hutan pada tahun 2000-2013. Wilayah-wilayah berwarna merah gelap menunjukkan wilayah dengan laju deforestasi sebesar 2,5 persen atau lebih per tahun.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 21,
+            "title": "Angka Deforestasi dari tahun 2000 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/DFR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Seperti pada peta sebelumnya, data yang digunakan pada peta ini berdasarkan analisis citra satelit Landsat yang memiliki resolusi spasial 30 meter untuk periode tahun 2000-2013. Peta ini menggambarkan rata-rata kehilangan hutan dalam luasan hektar per tahun selama tahun 2000 sampai 2013. Kabupaten-kabupaten dengan warna merah gelap memiliki tingkat kehilangan hutan lebih dari 20.000 ha/tahun sepanjang periode 13 tahun.</p>"
+        },
+        {
+            "url": "/pages/static/pdf/index.html",
+            "id": 22,
+            "title": "Unduh laporan FSVA",
+            "params": {
+                "configPath": "/stories/main/pdf.json"
+            },
+            "parent": null,
+            "content": "<p>Laporan FSVA secara lengkap dan FSVA versi advokasi dapat diunduh melalui link berikut:</p>\n\n<p><strong>Laporan FSVA selengkapnya:</strong></p>\n\n<ul><li>\n<a target='_blank' href='/public/attachments/fsva_full_id.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> Bahasa Indonesia</a></li><li>\n<a target='_blank' href='/public/attachments/fsva_full_en.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> English</a></li></ul>\n\n<p><strong>Versi Advokasi singkat:</strong></p>\n\n<ul><li>\n<a target='_blank' href='/public/attachments/fsva_adv_id.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> Bahasa Indonesia</a></li><li>\n<a target='_blank' href='/public/attachments/fsva_adv_en.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> English</a></li></ul>"
+        }
+    ]
+}

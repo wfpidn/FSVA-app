@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url('./fonts/opensans.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Voltaire';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Voltaire'), url('./fonts/voltaire.woff2') format('woff2');
+}

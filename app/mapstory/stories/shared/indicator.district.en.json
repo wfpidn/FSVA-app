@@ -1,0 +1,95 @@
+{
+    "indicators": [
+        {
+            "range": {
+                "max": 95.42,
+                "type": "local",
+                "min": 0.06
+            },
+            "description": "Normative Consumption to Net Per Capita Production Ratio",
+            "id": "NCPR",
+            "label": "NCPR"
+        },
+        {
+            "range": {
+                "max": 53.47,
+                "min": 2.46
+            },
+            "description": "Population living below the poverty line (%)",
+            "id": "POV",
+            "label": "Poverty"
+        },
+        {
+            "range": {
+                "max": 99.6,
+                "min": 0.17
+            },
+            "description": "Villages lacking access to roads that are passable by fourwheeled vehicle or to waterways passable by boat (%)",
+            "id": "RWA",
+            "label": "Road and water access"
+        },
+        {
+            "range": {
+                "max": 100,
+                "min": 0.06
+            },
+            "description": "Households without access to electricity (%)",
+            "id": "ELEC",
+            "label": "Access to Electricity"
+        },
+        {
+            "range": {
+                "max": 98.85,
+                "min": 0.16
+            },
+            "description": "Households without access to clean drinking water at a distance of more than 10 meters from a septic tank (%)",
+            "id": "CW",
+            "label": "Clean water"
+        },
+        {
+            "range": {
+                "max": 75.79,
+                "min": 57.5
+            },
+            "description": "Life expectancy at birth (years)",
+            "id": "LIFE",
+            "label": "Life expectancy"
+        },
+        {
+            "range": {
+                "max": 89.1,
+                "min": 0.1
+            },
+            "description": "Villages with health facilities greater than 5 kilometers away (%)",
+            "id": "HLTH",
+            "label": "Access to Health Facilities"
+        },
+        {
+            "range": {
+                "max": 89.38,
+                "min": 0.09
+            },
+            "description": "Women and girls over 15 years of age who cannot read or write (%)",
+            "id": "ILLI",
+            "label": "Female illiteracy"
+        },
+        {
+            "range": {
+                "max": 6,
+                "colors": {
+                    "4": "#FFD93E",
+                    "1": "#6E1F1F",
+                    "5": "#94C945",
+                    "6": "#3B703B",
+                    "2": "#E85961",
+                    "3": "#FFFF7A"
+                },
+                "min": 0,
+                "step": 1
+            },
+            "description": "Sub-district priority",
+            "id": "PRIO",
+            "label": "Sub-district priority"
+        }
+    ]
+}

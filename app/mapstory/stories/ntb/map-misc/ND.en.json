@@ -1,0 +1,32 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_61_natural_disasters_a/FeatureServer/0"
+    },
+    "title": "Number of natural disaster event",
+    "legend": [
+        {
+            "color": "RGB(204,204,204)",
+            "label": "No disaster data"
+        },
+        {
+            "color": "RGB(255,255,179)",
+            "label": "< 10"
+        },
+        {
+            "color": "RGB(255,203,92)",
+            "label": "10 - 20"
+        },
+        {
+            "color": "RGB(252,141,61)",
+            "label": "20 - 30"
+        },
+        {
+            "color": "RGB(240,59,31)",
+            "label": "30 - 40"
+        },
+        {
+            "color": "RGB(189,0,38)",
+            "label": "> 40"
+        }
+    ]
+}

@@ -1,0 +1,1028 @@
+[
+    {
+        "value": 26.9,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3501,
+        "district": "PACITAN"
+    },
+    {
+        "value": 27.578973723250538,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3501,
+        "district": "PACITAN"
+    },
+    {
+        "value": 35.68115559107656,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3501,
+        "district": "PACITAN"
+    },
+    {
+        "value": 33.400000000000006,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3502,
+        "district": "PONOROGO"
+    },
+    {
+        "value": 34.243038005820395,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3502,
+        "district": "PONOROGO"
+    },
+    {
+        "value": 30.76562930322445,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3502,
+        "district": "PONOROGO"
+    },
+    {
+        "value": 33,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3503,
+        "district": "TRENGGALEK"
+    },
+    {
+        "value": 33.83294174227762,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3503,
+        "district": "TRENGGALEK"
+    },
+    {
+        "value": 38.631873515311256,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3503,
+        "district": "TRENGGALEK"
+    },
+    {
+        "value": 27.5,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3504,
+        "district": "TULUNGAGUNG"
+    },
+    {
+        "value": 28.194118118564678,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3504,
+        "district": "TULUNGAGUNG"
+    },
+    {
+        "value": 29.457755853139787,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3504,
+        "district": "TULUNGAGUNG"
+    },
+    {
+        "value": 36.599999999999994,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3505,
+        "district": "BLITAR"
+    },
+    {
+        "value": 37.523808114162435,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3505,
+        "district": "BLITAR"
+    },
+    {
+        "value": 27.701272336235984,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3505,
+        "district": "BLITAR"
+    },
+    {
+        "value": 28.7,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3506,
+        "district": "KEDIRI"
+    },
+    {
+        "value": 29.424406909192957,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3506,
+        "district": "KEDIRI"
+    },
+    {
+        "value": 34.80092573225594,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3506,
+        "district": "KEDIRI"
+    },
+    {
+        "value": 34.4,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3507,
+        "district": "MALANG"
+    },
+    {
+        "value": 35.26827866467727,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3507,
+        "district": "MALANG"
+    },
+    {
+        "value": 27.282959954730323,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3507,
+        "district": "MALANG"
+    },
+    {
+        "value": 37.8,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3508,
+        "district": "LUMAJANG"
+    },
+    {
+        "value": 38.75409690479073,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3508,
+        "district": "LUMAJANG"
+    },
+    {
+        "value": 41.30576892738384,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3508,
+        "district": "LUMAJANG"
+    },
+    {
+        "value": 42.7,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3509,
+        "district": "JEMBER"
+    },
+    {
+        "value": 43.77777613318952,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3509,
+        "district": "JEMBER"
+    },
+    {
+        "value": 44.10120987249421,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3509,
+        "district": "JEMBER"
+    },
+    {
+        "value": 39,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3510,
+        "district": "BANYUWANGI"
+    },
+    {
+        "value": 39.98438569541901,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3510,
+        "district": "BANYUWANGI"
+    },
+    {
+        "value": 37.10541385627664,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3510,
+        "district": "BANYUWANGI"
+    },
+    {
+        "value": 33.2,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3511,
+        "district": "BONDOWOSO"
+    },
+    {
+        "value": 34.037989874048996,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3511,
+        "district": "BONDOWOSO"
+    },
+    {
+        "value": 56.38211692947603,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3511,
+        "district": "BONDOWOSO"
+    },
+    {
+        "value": 39,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3512,
+        "district": "SITUBONDO"
+    },
+    {
+        "value": 39.98438569541899,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3512,
+        "district": "SITUBONDO"
+    },
+    {
+        "value": 39.329042942940156,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3512,
+        "district": "SITUBONDO"
+    },
+    {
+        "value": 32.3,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3513,
+        "district": "PROBOLINGGO"
+    },
+    {
+        "value": 33.11527328107778,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3513,
+        "district": "PROBOLINGGO"
+    },
+    {
+        "value": 49.43302753079374,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3513,
+        "district": "PROBOLINGGO"
+    },
+    {
+        "value": 28.9,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3514,
+        "district": "PASURUAN"
+    },
+    {
+        "value": 29.629455040964324,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3514,
+        "district": "PASURUAN"
+    },
+    {
+        "value": 39.602703470243696,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3514,
+        "district": "PASURUAN"
+    },
+    {
+        "value": 40.4,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3515,
+        "district": "SIDOARJO"
+    },
+    {
+        "value": 41.41972261781864,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3515,
+        "district": "SIDOARJO"
+    },
+    {
+        "value": 30.198157463576244,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3515,
+        "district": "SIDOARJO"
+    },
+    {
+        "value": 25.7,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3516,
+        "district": "MOJOKERTO"
+    },
+    {
+        "value": 26.34868493262227,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3516,
+        "district": "MOJOKERTO"
+    },
+    {
+        "value": 30.5071795586275,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3516,
+        "district": "MOJOKERTO"
+    },
+    {
+        "value": 39.6,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3517,
+        "district": "JOMBANG"
+    },
+    {
+        "value": 40.59953009073314,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3517,
+        "district": "JOMBANG"
+    },
+    {
+        "value": 35.7071331955306,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3517,
+        "district": "JOMBANG"
+    },
+    {
+        "value": 34.5,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3518,
+        "district": "NGANJUK"
+    },
+    {
+        "value": 35.37080273056296,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3518,
+        "district": "NGANJUK"
+    },
+    {
+        "value": 44.328069557668854,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3518,
+        "district": "NGANJUK"
+    },
+    {
+        "value": 31.799999999999997,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3519,
+        "district": "MADIUN"
+    },
+    {
+        "value": 32.60265295164933,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3519,
+        "district": "MADIUN"
+    },
+    {
+        "value": 28.63266958261653,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3519,
+        "district": "MADIUN"
+    },
+    {
+        "value": 45,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3520,
+        "district": "MAGETAN"
+    },
+    {
+        "value": 46.13582964856038,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3520,
+        "district": "MAGETAN"
+    },
+    {
+        "value": 30.214451162332487,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3520,
+        "district": "MAGETAN"
+    },
+    {
+        "value": 38.8,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3521,
+        "district": "NGAWI"
+    },
+    {
+        "value": 39.77933756364762,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3521,
+        "district": "NGAWI"
+    },
+    {
+        "value": 30.33115820204545,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3521,
+        "district": "NGAWI"
+    },
+    {
+        "value": 33.5,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3522,
+        "district": "BOJONEGORO"
+    },
+    {
+        "value": 34.34556207170606,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3522,
+        "district": "BOJONEGORO"
+    },
+    {
+        "value": 36.571925755955064,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3522,
+        "district": "BOJONEGORO"
+    },
+    {
+        "value": 37.7,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3523,
+        "district": "TUBAN"
+    },
+    {
+        "value": 38.65157283890503,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3523,
+        "district": "TUBAN"
+    },
+    {
+        "value": 37.65174265643883,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3523,
+        "district": "TUBAN"
+    },
+    {
+        "value": 39.7,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3524,
+        "district": "LAMONGAN"
+    },
+    {
+        "value": 40.702054156618836,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3524,
+        "district": "LAMONGAN"
+    },
+    {
+        "value": 48.865892017815135,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3524,
+        "district": "LAMONGAN"
+    },
+    {
+        "value": 28.4,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3525,
+        "district": "GRESIK"
+    },
+    {
+        "value": 29.116834711535883,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3525,
+        "district": "GRESIK"
+    },
+    {
+        "value": 30.204199207566987,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3525,
+        "district": "GRESIK"
+    },
+    {
+        "value": 41.900000000000006,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3526,
+        "district": "BANGKALAN"
+    },
+    {
+        "value": 42.95758360610401,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3526,
+        "district": "BANGKALAN"
+    },
+    {
+        "value": 43.21035512878338,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3526,
+        "district": "BANGKALAN"
+    },
+    {
+        "value": 48,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3527,
+        "district": "SAMPANG"
+    },
+    {
+        "value": 49.21155162513109,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3527,
+        "district": "SAMPANG"
+    },
+    {
+        "value": 41.464828318477345,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3527,
+        "district": "SAMPANG"
+    },
+    {
+        "value": 51.8,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3528,
+        "district": "PAMEKASAN"
+    },
+    {
+        "value": 53.10746612878729,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3528,
+        "district": "PAMEKASAN"
+    },
+    {
+        "value": 44.59560635523789,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3528,
+        "district": "PAMEKASAN"
+    },
+    {
+        "value": 47.900000000000006,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3529,
+        "district": "SUMENEP"
+    },
+    {
+        "value": 49.10902755924539,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3529,
+        "district": "SUMENEP"
+    },
+    {
+        "value": 52.438851165364675,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3529,
+        "district": "SUMENEP"
+    },
+    {
+        "value": 30.4,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3571,
+        "district": "KOTA KEDIRI"
+    },
+    {
+        "value": 31.16731602924968,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3571,
+        "district": "KOTA KEDIRI"
+    },
+    {
+        "value": 35.06842142691456,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3571,
+        "district": "KOTA KEDIRI"
+    },
+    {
+        "value": 26,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3572,
+        "district": "KOTA BLITAR"
+    },
+    {
+        "value": 26.656257130279332,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3572,
+        "district": "KOTA BLITAR"
+    },
+    {
+        "value": 26.44318015475269,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3572,
+        "district": "KOTA BLITAR"
+    },
+    {
+        "value": 22.3,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3573,
+        "district": "KOTA MALANG"
+    },
+    {
+        "value": 22.86286669250881,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3573,
+        "district": "KOTA MALANG"
+    },
+    {
+        "value": 29.63120572478539,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3573,
+        "district": "KOTA MALANG"
+    },
+    {
+        "value": 33.3,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3574,
+        "district": "KOTA PROBOLINGGO"
+    },
+    {
+        "value": 34.14051393993468,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3574,
+        "district": "KOTA PROBOLINGGO"
+    },
+    {
+        "value": 29.86565249709752,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3574,
+        "district": "KOTA PROBOLINGGO"
+    },
+    {
+        "value": 28.6,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3575,
+        "district": "KOTA PASURUAN"
+    },
+    {
+        "value": 29.321882843307268,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3575,
+        "district": "KOTA PASURUAN"
+    },
+    {
+        "value": 29.968910303322268,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3575,
+        "district": "KOTA PASURUAN"
+    },
+    {
+        "value": 19.1,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3576,
+        "district": "KOTA MOJOKERTO"
+    },
+    {
+        "value": 19.582096584166738,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3576,
+        "district": "KOTA MOJOKERTO"
+    },
+    {
+        "value": 33.52563923378462,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3576,
+        "district": "KOTA MOJOKERTO"
+    },
+    {
+        "value": 21,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3577,
+        "district": "KOTA MADIUN"
+    },
+    {
+        "value": 21.530053835994842,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3577,
+        "district": "KOTA MADIUN"
+    },
+    {
+        "value": 32.84939949782809,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3577,
+        "district": "KOTA MADIUN"
+    },
+    {
+        "value": 24.8,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3578,
+        "district": "KOTA SURABAYA"
+    },
+    {
+        "value": 25.425968339651057,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3578,
+        "district": "KOTA SURABAYA"
+    },
+    {
+        "value": 22.704445914276484,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3578,
+        "district": "KOTA SURABAYA"
+    },
+    {
+        "value": 31,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2007,
+        "isRural": true,
+        "districtId": 3579,
+        "district": "KOTA BATU"
+    },
+    {
+        "value": 31.78246042456382,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2010,
+        "isRural": true,
+        "districtId": 3579,
+        "district": "KOTA BATU"
+    },
+    {
+        "value": 33.049993878617464,
+        "indicatorId": "STUN",
+        "province": "JAWA TIMUR",
+        "year": 2013,
+        "isRural": true,
+        "districtId": 3579,
+        "district": "KOTA BATU"
+    }
+]

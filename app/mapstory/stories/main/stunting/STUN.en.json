@@ -1,0 +1,96 @@
+{
+    "table": {
+        "order": [
+            [
+                0,
+                "asc"
+            ],
+            [
+                1,
+                "asc"
+            ]
+        ],
+        "columns": [
+            {
+                "title": "Year",
+                "width": "30%",
+                "attr": "year"
+            },
+            {
+                "title": "Province",
+                "width": "35%",
+                "attr": "province"
+            },
+            {
+                "title": "%(indicator.label)s",
+                "width": "35%",
+                "attr": "value"
+            }
+        ]
+    },
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "> 40\tVery high prevalence"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "30 - 40\tHigh prevalence"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "20 - 30\tMedium prevalence"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "< 20\tLow prevalence"
+        }
+    ],
+    "expression": {
+        "showRow": "true",
+        "showChart": "true"
+    },
+    "dataset": "/stories/main/stunting/dataset.json",
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_riskesdas_a1_moh/FeatureServer/0",
+        "area": {
+            "dst": "provinceId",
+            "src": "A1CODE",
+            "drill": [
+                {
+                    "label": "Province",
+                    "attr": "province"
+                }
+            ]
+        },
+        "extent": {
+            "xmax": 146.14,
+            "ymax": 2.46,
+            "ymin": -7.44,
+            "xmin": 93.85
+        }
+    },
+    "indicator": {
+        "id": "STUN",
+        "path": "/stories/main/stunting/indicator.json"
+    },
+    "hover": {
+        "chart": "column"
+    },
+    "messages": {
+        "popup.click": "District trends and profile data are not available for this indicator. Please select another indicator under <strong>Food Availability, Food Access or Food Utilization</strong> to view district trends and profile data."
+    },
+    "modules": [
+        "/pages/map/esri-map",
+        "/pages/map/header",
+        "/pages/map/indicator",
+        "/pages/map/csv",
+        "/pages/map/map-hover",
+        "/pages/map/map-click-error"
+    ],
+    "title": "Percentage of stunted children under 5 years of age"
+}

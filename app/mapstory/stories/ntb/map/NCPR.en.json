@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_21_ncpr_a/FeatureServer/0"
+    },
+    "title": "Ratio of consumption to production",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "High deficit"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "Moderate deficit"
+        },
+        {
+            "color": "RGB(244,161,167)",
+            "label": "Low deficit"
+        },
+        {
+            "color": "RGB(201,224,191)",
+            "label": "Low surplus"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "Moderate surplus"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "High surplus"
+        }
+    ],
+    "indicator": {
+        "id": "NCPR"
+    }
+}

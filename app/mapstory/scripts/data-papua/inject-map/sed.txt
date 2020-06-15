@@ -1,0 +1,2 @@
+:%s/stories\/jatim/stories\/papua
+:%s/storyId"\: "jatim/storyId": "papua

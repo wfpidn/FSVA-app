@@ -1,0 +1,226 @@
+{
+    "title": "Indonesia - Peta Ketahanan dan Kerentanan Pangan 2015",
+    "defaultSectionId": 1,
+    "sections": [
+        {
+            "url": "/stories/shared/image.html",
+            "id": 0,
+            "title": "Latar Belakang FSVA NTT interaktif",
+            "params": {
+                "image": "/stories/ntt/intro.jpg",
+                "background": "#D9CFB1"
+            },
+            "parent": null,
+            "content": "<p>Sejak tahun 2003, Pemerintah Indonesia telah bekerjasama dengan World Food Programme (WFP) dalam peningkatan pemahaman tentang situasi ketahanan pangan di Indonesia melalui pengembangan Peta Ketahanan dan Kerentanan Pangan (<em>Food Security and Vulnerability Atlas</em>/FSVA). FSVA nasional telah diterbitkan pada tahun 2005, 2009 dan 2015 dengan analisa hingga tingkat kabupaten. Untuk mendapatkan gambaran yang lebih tajam terhadap situasi ketahanan pangan provinsi pada tingkat kecamatan, maka Badan Ketahanan Pangan dan Penyuluhan (BKPP) Provinsi Nusa Tenggara Timur (NTT) bekerjasama dengan WFP dalam pemutakhiran profil geografis yang komprehensif terkait kerawanan pangan dan gizi di Provinsi NTT yang menghasilkan FSVA Provinsi NTT edisi ke III ini. FSVA NTT 2015 ini menyediakan data dan informasi bagi para pembuat kebijakan dalam menentukan daerah rawan pangan dan menyusun rekomendasi kebijakan untuk memperbaiki ketahanan pangan dan gizi pada tingkat kabupaten dan kecamatan.</p>\n<p>FSVA menggunakan 12 indikator yang tersedia di tingkat kecamatan, yang mampu mengukur berbagai aspek ketahanan pangan dan gizi. FSVA membagi indikator-indikator tersebut menjadi dua kelompok indikator: <strong>kerawanan pangan dan gizi kronis</strong> dan <strong>kerawanan pangan transien</strong>. Indikator kerawanan pangan kronis mengukur aspek <strong>ketersediaan pangan, akses pangan </strong>dan<strong> pemanfaatan pangan. </strong>Sedangkan indikator transien menjelaskan <strong>faktor iklim dan lingkungan</strong> yang mempengaruhi kerawanan pangan dari aspek ketersediaan dan akses pangan. Kemudian untuk menjelaskan secara keseluruhan <strong>peringkat kondisi ketahanan pangan kecamatan</strong>, maka diperlukan analisis komposit yang merupakan kombinasi dari sembilan indikator kerawanan pangan kronis tersebut.</p>\n<p>Indikator-Indikator kerawanan pangan dan gizi kronis di FSVA NTT 2015 sebagian besar dihasilkan melalui metode <em>Small Area Estimation</em> (SAE) karena keterbatasan data sekunder pada tingkat kecamatan. Metode SAE merupakan suatu proses modeling untuk mengestimasi karakteristik suatu data yang memiliki tingkat agregasi tinggi (provinsi atau kabupaten) ke tingkat agregasi yang lebih rendah (tingkat kecamatan), umumnya menggunakan data sensus. Data survei dan sensus yang digunakan adalah Survei Sosial Ekonomi Nasional (SUSENAS) 2013, Sensus Penduduk 2010 dan Potensi Data (PODES) 2014.</p>\n<p>Kerangka konseptual ketahanan pangan dan gizi sebagaimana disajikan gambar disamping merupakan landasan analisis FSVA. Kerangka konseptual tersebut dibangun berdasarkan tiga pilar ketahanan pangan - ketersediaan pangan, akses pangan dan pemanfaatan pangan.Pilar ke empat ketahanan pangan adalah stabilitas pangan yang tercermin dalam FSVA untuk membandingkan kerawanan pangan kronis dengan kerawanan pangan transien (atau akut).</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 1,
+            "title": "Gambaran Umum Klasifikasi Ketahanan Pangan Kecamatan",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/PRIO.json"
+                ]
+            },
+            "parent": null,
+            "content": "<p>Selain analisis indikator individu, dikembangkan juga indikator komposit yang mencerminkan situasi ketahanan pangan dan gizi secara keseluruhan untuk mengklasifikasikan kecamatan-kecamatan dalam enam kelompok prioritas. Kecamatan yang masuk dalam Prioritas 1 adalah kecamatan-kecamatan yang memiliki tingkat kerentanan pangan yang paling tinggi sedangkan Prioritas 6 adalah kecamatan-kecamatan yang lebih tahan pangan. Umumnya, kecamatan-kecamatan di Prioritas 1, 2 dan 3 merupakan kecamatan yang sangat rentan terhadap kerawanan panga sedangkan kecamatan-kecamatan Prioritas 4, 5 dan 6 termasuk kategori tahan pangan.</p>\n<p>Dalam pengkelasan status ketahanan pangan kecamatan secara menyeluruh, seluruh 9 indikator tersebut diberi bobot lalu digunakan dalam perhitungan skor komposit secara keseluruhan. Penjelasan detail tentang metodelogi tersedia di laporan FSVA.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 2,
+            "title": "Ketersediaan Pangan",
+            "params": {
+                "sectionId": 3,
+                "storyId": "ntt"
+            },
+            "parent": null,
+            "content": "<p>Ketersediaan pangan adalah kondisi tersedianya pangan (termasuk pangan kaya gizi) dari hasil produksi dalam negeri. Ketersediaan pangan termasuk juga cadangan pangan, serta pemasukan pangan, termasuk didalamnya impor dan bantuan pangan, apabila kedua sumber utama tidak dapat memenuhi kebutuhan. Mengingat sebagian besar bahan pangan yang diproduksi maupun di impor harus masuk terlebih dahulu ke pasar sebelum sampai ke rumah tangga, maka infrastruktur pasar, distribusi dan perdagangan akan terkait erat dengan ketersediaan pada tingkat regional dan lokal.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 3,
+            "title": "Rasio konsumsi terhadap produksi",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/NCPR.json"
+                ]
+            },
+            "parent": 2,
+            "content": "<p>Indikator FSVA yang mengukur aspek ketersediaan pangan adalah rasio antara konsumsi serealia per kapita dan produksi. Indikator ini difokuskan pada produksi serealia dan umbi-umbian (padi, jagung, ubi kayu dan ubi jalar) yang mencakup tiap kecamatan dari 300 kecamatan. Ke empat komoditas serealia ini dipilih karena keterbatasan data komoditas lainnya dan komoditas ini menyediakan hampir 50 persen dari asupan kebutuhan energi per hari pada rata-rata konsumsi pangan orang Indonesia. Indikator tersebut digunakan untuk mengukur jumlah produksi pangan yang kaya energi untuk penduduk lokal, tetapi tidak melihat dari sisi ketersediaan pangan yang kaya gizi seperti dari sumber buah-buahan, sayuran, dan protein. Analisis ini juga tidak mempertimbangkan jumlah pangan yang di impor ke kecamatan, maupun jumlah pangan yang di ekspor keluar dari kecamatan tersebut mengingat data ekspor/impor pada tingkat kecamatan tidak tersedia. Untuk informasi yang lebih detail mengenai indikator ini, dapat dilihat di Bab 2 pada laporan FSVA.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 4,
+            "title": "Akses terhadap Pangan",
+            "params": {
+                "sectionId": 5,
+                "storyId": "ntt"
+            },
+            "parent": null,
+            "content": "<p>Akses pangan berhubungan dengan kemampuan rumah tangga untuk memperoleh cukup pangan, baik yang berasal dari produksi sendiri, stok, pembelian, barter, hadiah, pinjaman dan bantuan pangan. Pangan mungkin tersedia secara fisik di suatu daerah, akan tetapi mungkin tidak dapat diakses oleh rumah tangga karena terbatasnya: i) akses fisik: infrastruktur pasar, akses untuk mencapai pasar dan fungsi pasar; ii) akses ekonomi: kemampuan keuangan rumah tangga untuk membeli makanan yang cukup dan bergizi; dan/atau iii) akses sosial: modal sosial yang dapat digunakan untuk mendapatkan mekanisme dukungan informal seperti barter, meminjam atau adanya program perlindungan sosial.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 5,
+            "title": "Desa tanpa jalan penghubung antar desa yang dapat diakses oleh kendaraan roda empat atau tanpa jalur transportasi air",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/RWA.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Infrastruktur transportasi dan gudang penyimpanan adalah hal penting dalam ketahanan pangan dan gizi. FSVA menganalisis tingkat konektivitas berdasarkan data potensi desa yang memiliki akses ke jalan yang dapat dilalui kendaraan roda empat dan akses terhadap transportasi air yang dapat dilalui sepanjang tahun. Data ini berasal dari Survei Potensi Desa 2014 (PODES).</p>\n<p>Provinsi NTT telah memiliki infrastuktur transportasi. Akan tetapi, terdapat banyak ruang untuk perbaikan yang nantinya dapat bermanfaat bagi semua sektor lainnya, dan hal yang paling penting adalah membuka jaringan distribusi pangan yang berkorelasi positif dengan memperpendek rantai pemasaran pangan, aksesibilitas dan harga pangan.</p>\n<p>Di Provinsi NTT masih terdapat 14 kecamatan (4,7%) yang 40% atau lebih dari desa-desanya tidak memiliki akses jalan atau transportasi air yang memadai. Enam dari 14 kecamatan tersebut terdapat di Kabupaten Kupang dan Timor Tengah Selatan, dua kecamatan di Kabupaten Alor, Sikka dan Ende dan satu kecamatan di Kabupaten Sumba Timur dan Sumba Tengah.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 6,
+            "title": "Akses terhadap listrik",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/ELEC.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Akses rumah tangga terhadap listrik merupakan suatu indikator <em>proxy</em> yang baik untuk melihat tingkat kesejahteraan ekonomi, meningkatkan kualitas hidup dan peluang bagi kondisi kehidupan rumah tangga yang lebih baik. Indikator yang digunakan dalam FSVA adalah persentase rumah tangga di tiap kecamatan yang tidak memiliki akses terhadap listrik dari PLN dan/atau non PLN, misalnya generator. Dengan menggunakan data Survei Sosial Ekonomi Nasional 2013 (SUSENAS), Sensus Penduduk 2010 dan PODES 2014, secara keseluruhan masih terdapat 29 persen rumah tangga yang masih belum memiliki akses listrik, serta masih tingginya kesenjangan pasokan listrik terhadap rumah tangga antara satu kabupaten dan kabupaten lainnya di NTT.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 7,
+            "title": "Penduduk hidup di bawah garis kemiskinan",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/POV.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Garis kemiskinan di definisikan sebagai nilai rupiah pengeluaran per kapita setiap bulan untuk memenuhi standar minimum kebutuhan konsumsi pangan dan non pangan. Angka kemiskinan provinsi NTT telah menurun dari 23,31% (2009) menjadi 22,61% pada 2015. Meskipun angka kemiskinan menurun signifikan, masih terdapat sekitar 1,16 juta penduduk NTT yang hidup dibawah garis kemiskinan. Dibandingkan dengan provinsi lainnya di Indonesia, NTT masih berada pada urutan kemiskinan ke 3 tertinggi setelah Papua dan Papua Barat.</p>\n<p>Garis kemiskinan NTT pada tahun 2013 adalah sebesar Rp 321.163 per kapita per bulan di daerah perkotaan dan Rp 234.141 di pedesaan. Untuk analisis klasifikasi di FSVA, persentase jumlah rumah tangga di bawah garis kemiskinan di setiap kecamatan dihitung dengan metode <em>Small Area Estimation</em> (SAE) yang menggunakan data SUSENAS 2013, Sensus Penduduk 2010 dan PODES 2014.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 8,
+            "title": "Pemanfaatan Pangan",
+            "params": {
+                "sectionId": 9,
+                "storyId": "ntt"
+            },
+            "parent": null,
+            "content": "<p>Pemanfaatan pangan meliputi pemanfaatan pangan yang bisa diakses oleh rumah tangga dan kemampuan individu untuk menyerap zat gizi. Aspek pemanfaatan pangan tergantung pada: i) fasilitas penyimpanan dan pengolahan makanan; ii) pengetahuan dan praktek yang berhubungan dengan penyiapan makanan dan pemberian makanan, yang mungkin dipengaruhi oleh rendahnya tingkat pengetahuan ibu dan pengasuh anak lainnya, adat/kepercayaan dan tabu; iii) distribusi makanan dalam anggota keluarga; dan iv) kondisi kesehatan masing-masing individu yang mungkin menurun karena penyakit, kebersihan, rendahnya akses air, fasilitas sanitasi yang buruk serta kurangnya akses ke fasilitas dan pelayanan kesehatan.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 9,
+            "title": "Desa dengan akses ke fasilitas kesehatan lebih dari 5 kilometer",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/HLTH.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Dengan menggunakan data Survei Potensi Desa 2014 (PODES), FSVA menganalisis persentase desa dengan jarak lebih dari 5 kilometer dari fasilitas kesehatan untuk setiap kecamatan. Fasilitas kesehatan ini di antaranya adalah: rumah sakit, klinik, puskesmas, dll. Pada tahun 2014, terdapat 85,25 persen desa di NTT memiliki akses ke fasilitas kesehatan terdekat dengan jangkauan sekitar 5 km. Namun demikian, ada delapan dari 300 kecamatan, dimana lebih dari 40 persen desa tidak memiliki fasilitas kesehatan dengan jarak kurang dari 5 km. Tiga kecamatan terdapat di Kabupaten Timor Tengah Selatan, dua kecamatan di Kabupaten Sumba Timur dan Alor dan satu kecamatan di Kabupaten Ngada.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 10,
+            "title": "Rumah tangga tanpa akses ke air bersih dengan mempertimbangkan jarak lebih dari 10 meter dari septic tank yang aman untuk air minum",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/CW.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Akses ke air bersih yang aman untuk air minum di definisikan sebagai sumber air minum yang berasal dari leding meteran, leding eceran, sumur bor/pompa, sumur terlindung, mata air terlindung dan air hujan dengan memperhatikan jarak ke jamban minimal 10 meter. Akses terhadap fasilitas sanitasi dan air layak minum sangat penting dalam mengurangi masalah penyakit khususnya memiliki dampak buruk dalam peningkatan penyerapan zat-zat gizi oleh tubuh. Akses yang layak ke fasilitas sanitasi, air minum yang bersih dan aman merupakan salah satu permasalahan utama di NTT. Menurut RISKESDAS 2013, masih terdapat 44,20 persen rumah tangga di NTT yang tidak memiliki akses terhadap air minum yang bersih dan aman serta hanya 30,50 persen yang memiliki akses ke fasilitas sanitasi yang layak.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 11,
+            "title": "Tingkat buta huruf: perempuan dengan usia 15 tahun ke atas",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/ILLI.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Melek huruf perempuan terutama ibu dan pengasuh anak balita, diketahui menjadi faktor penentu yang sangat penting dalam pemanfaatan pangan dan sangat berpengaruh terhadap status kesehatan dan gizi setiap anggota keluarga. Studi di berbagai negara menunjukkan bahwa di negara berkembang, tingkat pendidikan dan pengetahuan ibu tentang gizi berkorelasi kuat dengan status gizi anaknya. Pada tahun 2013, terdapat 11,31 persen perempuan berusia di atas 15 tahun di NTT yang diklasifikasikan sebagai buta huruf. Empat kabupaten dengan persentase tertinggi perempuan buta huruf (tahun 2013) adalah Kabupaten Sumba Barat Daya (23,32 persen), Sumba Barat (22,76 persen), Sumba Tengah (20,82 persen) dan Sabu Raijua (20,38 persen). FSVA menggunakan perhitungan <em>Small Area Estimation</em> untuk mengestimasi persentase perempuan di atas 15 tahun yang tidak dapat membaca atau menulis huruf latin di setiap kecamatan.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 12,
+            "title": "Prevalensi dari anak di bawah 5 tahun yang memiliki tinggi badan kurang",
+            "params": {
+                "config": [
+                    "/stories/ntt/stunting/STUN.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Kurang gizi kronis berhubungan dengan pertumbuhan janin yang buruk dan pertumbuhan yang terhambat selama dua tahun pertama kehidupan (1.000 Hari Pertama Kehidupan), umumnya disebabkan oleh kombinasi asupan zat gizi yang kurang, keterpaparan yang tinggi terhadap penyakit dan praktek pola asuh yang kurang baik. Disamping meningkatnya resiko kematian anak, kurang gizi kronis dapat menyebabkan kegagalan pertumbuhan yang tidak dapat diperbaiki termasuk terhambatnya perkembangan mental dan fisik, yang dapat mempengaruhi kehadiran dan prestasi anak di sekolah, kapasitas untuk mendapatkan penghasilan yang lebih tinggi saat dewasa, sehingga berpotensi untuk meningkatkan kemiskinan. Selain itu, anak kurang gizi yang mengalami peningkatan berat badan secara cepat pada akhir masa kanak-kanak dan remaja lebih cenderung untuk menderita penyakit kronis (obesitas, diabetes, hipertensi dan penyakit jantung) yang berhubungan dengan masalah gizi.</p>\n<p>Malnutrisi kronis yang diukur dengan <em>stunting</em> (tinggi badan pendek menurut umur), merupakan permasalahan utama di Indonesia dan angka <em>stunting</em> di NTT sangat tinggi. Menurut RISKESDAS 2013, prevalensi balita pendek (<em>stunting</em>) tingkat provinsi mengalami peningkatan dari 46,70 persen pada tahun 2007 menjadi 51,73 persen pada tahun 2013. NTT merupakan satu-satunya provinsi di Indonesia yang memiliki angka <em>stunting</em> diatas 50 persen.</p>\n<p>Dengan menggunakan data Riset Kesehatan Dasar 2013 (RISKESDAS), FSVA menganalisis kondisi tiap kabupaten berdasarkan persentase anak di bawah lima tahun yang tinggi badannya kurang dari -2 Standar Deviasi (-2 SD) dengan indeks tinggi badan menurut umur (TB/U) dari referensi khusus untuk tinggi badan terhadap usia dan jenis kelamin dari WHO. Indikator <em>stunting</em> menggunakan data pada tingkat kabupaten, berbeda dengan indikator FSVA NTT lainnya yang sampai tingkat kecamatan, pengecualian ini berkaitan dengan estimasi data stunting yang sensitif. Pada tingkat kabupaten, menurut klasifikasi WHO, 17 kabupaten atau 77 persen yang memiliki prevalensi <em>stunting</em> pada tingkat sangat buruk (&ge; 40 persen) dan 4 kabupaten/kota lainnya memiliki prevalensi <em>stunting</em> pada tingkat buruk (30-39 persen). Kabupaten Timor Tengah Selatan memiliki angka stunting tertinggi di Provinsi NTT maupun di Indonesia yaitu sebesar 70,43 persen.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 13,
+            "title": "Angka harapan hidup",
+            "params": {
+                "config": [
+                    "/stories/ntt/map/_base.json",
+                    "/stories/ntt/map/LIFE.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Angka harapan hidup merupakan <em>outcome</em> dari status kesehatan dan gizi. FSVA menggunakan indikator perkiraan lama hidup rata-rata bayi baru lahir hingga pada tingkat kecamatan dengan asumsi tidak ada perubahan pola mortalitas sepanjang hidupnya sebagai indikator proxy aspek pemanfaatan pangan lainnya. Rata-rata angka harapan hidup di NTT pada tahun 2013 adalah 68,05 tahun. Angka harapan hidup tertinggi (69,66 tahun) terdapat di Kabupaten Sikka dan terendah terdapat di Sumba Timur (62,33 tahun).</p>\n<p>Data SUSENAS 2013, Sensus Penduduk 2010 dan PODES 2014 digunakan untuk mengestimasi angka harapan hidup di masing-masing kecamatan dengan menggunakan <em>Small Area Estimation</em>.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 14,
+            "title": "Faktor Iklim dan Lingkungan yang Berpengaruh Terhadap Ketahanan Pangan",
+            "params": {
+                "sectionId": 16,
+                "storyId": "ntt"
+            },
+            "parent": null,
+            "content": "<p>Kerentanan terhadap bencana alam dan gangguan mendadak lainnya dapat mempengaruhi ketahanan pangan dan gizi suatu wilayah baik bersifat sementara maupun jangka waktu panjang. Ketidakmampuan untuk memenuhi kebutuhan pangan secara sementara dikenal sebagai kerawanan pangan sementara (<em>transient food insecurity</em>). Bencana alam yang terjadi tiba-tiba, maupun perubahan harga atau goncangan terhadap pasar, epidemik penyakit, konflik sosial dan lain-lain dapat menyebabkan terjadinya kerawanan pangan transien (sementara).</p>\n<p>Kerawanan pangan transien dapat juga dibagi menjadi dua yaitu: Berulang (<em>cyclical</em>), di mana terdapat suatu pola yang berulang terhadap kondisi rawan pangan, misalnya, &ldquo;musim paceklik&rdquo; yang terjadi dalam periode sebelum panen, dan Temporal (<em>temporary</em>), yang merupakan hasil dari suatu gangguan mendadak dari luar pada jangka pendek seperti kekeringan atau banjir. Dengan kata lain, kerawanan pangan transien dapat mempengaruhi orang-orang yang berada pada kondisi rawan pangan kronis dan juga orang-orang yang berada pada keadaan tahan pangan. Kerawanan pangan transien juga dapat menyebabkan rumah tangga yang berada di bawah garis tahan pangan menjadi rawan pangan.</p>\n<p>Untuk melakukan analisa komprehensif terhadap kondisi iklim yang mempengaruhi kerawanan pangan transien, tiga faktor utama dianalisa dalam FSVA NTT 2015 yaitu: i) data kejadian bencana alam yang terjadi di tingkat kabupaten; ii) estimasi kehilangan produksi padi akibat banjir dan kekeringan; dan iii) kekuatan dampak <em>El Ni&ntilde;o/Southern Oscillation (ENSO)</em> terhadap pola curah hujan di NTT.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 16,
+            "title": "Variabilitas curah hujan",
+            "params": {
+                "config": [
+                    "/stories/ntt/map-misc/_base.json",
+                    "/stories/ntt/map-misc/RV.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Variabilitas iklim secara langsung mempengaruhi berbagai aspek ketahanan pangan dan gizi, khususnya ketersediaan dan akses pangan. Variasi curah hujan merupakan salah satu elemen yang berkaitan dengan berbagai kejadian bencana alam &ndash; kekeringan, banjir, angin topan dan tsunami &ndash; dan dipengaruhi oleh berbagai faktor, baik global, regional maupun lokal. Faktor iklim global antara lain <em>El Ni&ntilde;o, La Ni&ntilde;a</em> dan <em>dipole mode</em>; sedangkan faktor regional antara lain sirkulasi monsun, <em>Madden Julian Oscillation</em> (MJO), dan suhu permukaan laut perairan Indonesia; dan faktor lokal yang berpengaruh adalah ketinggian tempat, posisi bentangan suatu pulau, sirkulasi angin darat dan angin laut serta tutupan lahan suatu wilayah.</p>\n<p>Variasi curah hujan cenderung akan merugikan pertanian berkelanjutan kecuali sistem irigasi dan penyimpanan air (waduk atau dam) diperbaiki. Tidak ada kecamatan yang diperkirakan akan mengalami peningkatan curah hujan yang disebabkan oleh kejadian El Ni&ntilde;o.</p>\n<p>Peta ini menggambarkan perubahan curah hujan bulanan yang disebabkan oleh perubahan suhu permukaan laut (SPL) sebesar 1&deg;C di Samudera Pasifik Tengah pada Ni&ntilde;o 3.4. Daerah yang berwarna merah menunjukkan resiko berkurangannya curah hujan yang sangat tinggi sedangkan warna kuning muda menunjukkan resiko berkurangnya curah hujan yang sangat rendah. Setiap piksel pada peta mewakili daerah seluas 5,6 x 5,6 km. Seperti yang terlihat di peta ini, hampir seluruh kabupaten di NTT memiliki resiko penurunan curah hujan yang berkaitan dengan kejadian El Ni&ntilde;o.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 17,
+            "title": "Klasifikasi kecamatan yang mengalami perubahan negatif curah hujan bulanan berdasarkan kekuatan sinyal <em>El-Ni&ntilde;o Southern Oscillation</em> Southern Oscillation",
+            "params": {
+                "config": [
+                    "/stories/ntt/map-misc/_base.json",
+                    "/stories/ntt/map-misc/NMR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Peta ini mirip dengan peta sebelumnya, akan tetapi peta ini mengklasifikasikan kecamatan-kecamatan berdasarkan rata-rata penurunan curah hujan bulanan yang berhubungan dengan perubahan SPL di Samudera Pasifik Tengah. Kecamatan-kecamatan yang berwarna merah gelap memiliki perubahan negatif curah hujan terbesar yang berhubungan dengan kenaikan SPL yaitu Kabupaten Manggarai, diikuti Manggarai Barat, Manggarai Timur, Rote Ndao, Ende, Sikka, Belu, Sumba Barat, Sumba Barat Daya dan Sumba Tengah. Kecamatan-kecamatan ini membutuhkan pemantauan situasi ketahanan pangan khususnya dalam hubungannya dengan produksi pangan pada tahun&ndash;tahun El Nino (tahun kering).</p>"
+        },
+        {
+            "url": "/pages/static/pdf/index.html",
+            "id": 22,
+            "title": "Download laporan FSVA Nusa Tenggara Timur",
+            "params": {
+                "configPath": "/stories/ntt/pdf.json"
+            },
+            "parent": null,
+            "content": "\n    <p>Laporan lengkap FSVA Nusa Tenggara Timur dapat di download melalui link berikut:</p>\n    <ul>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/fsva_full_ntt_id.pdf'>\n        <span class='icon-pdf'></span>\n        Bahasa Indonesia\n      </a>\n    </li>\n    \n    \n    "
+        }
+    ]
+}

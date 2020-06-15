@@ -1,0 +1,495 @@
+[
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_71_priority_a/FeatureServer/0",
+        "title": "Vulnerability based on composite food security index",
+        "id": "PRIO",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "Priority 1 sub-district",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "Priority 2 sub-district",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "Priority 3 sub-district",
+                "color": "RGB(255,255,122)"
+            },
+            {
+                "label": "Priority 4 sub-district",
+                "color": "RGB(255,217,62)"
+            },
+            {
+                "label": "Priority 5 sub-district",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "Priority 6 sub-district",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_21_ncpr_a/FeatureServer/0",
+        "title": "Ratio of consumption to production",
+        "id": "NCPR",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "High deficit",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "Moderate deficit",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "Low deficit",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "Low surplus",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "Moderate surplus",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "High surplus",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_31_rwa_a/FeatureServer/0",
+        "title": "Percentage of village without road or water transportation access",
+        "id": "RWA",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 30",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "25 - 30",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "20 - 25",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "15 - 20",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "10 - 15",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 10",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_32_elec_a/FeatureServer/0",
+        "title": "Percentage of household without access to electricity",
+        "id": "ELEC",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 50",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "40 - 50",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "30 - 40",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "20 - 30",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "10 - 20",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 10",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_33_pov_a/FeatureServer/0",
+        "title": "Percentage of population living below national poverty line",
+        "id": "POV",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 35",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "25 - 35",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "20 - 25",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "15 - 20",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "10 - 15",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 10",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_41_hlth_a/FeatureServer/0",
+        "title": "Percentage of village with access to health facilities > 5 km",
+        "id": "HLTH",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 60",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "50 - 60",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "40 - 50",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "30 - 40",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "20 - 30",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 20",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_42_cw_a/FeatureServer/0",
+        "title": "Percentage of household without access to clean water",
+        "id": "CW",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 70",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "60 - 70",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "50 - 60",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "40 - 50",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "30 - 40",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 30",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_43_illi_a/FeatureServer/0",
+        "title": "Percentage of female illiteracy ages 15 and above",
+        "id": "ILLI",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 40",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "30 - 40",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "20 - 30",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "10 - 20",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "5 - 10",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 5",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_51_stun_adm2_a/FeatureServer/0",
+        "title": "Percentage of stunted children under 5 years of age",
+        "id": "STUN",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "> 40 Very high prevalence",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "30 - 40 High prevalence",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "20 - 30 Medium prevalence",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "< 20 Low prevalence",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_52_life_a/FeatureServer/0",
+        "title": "Life expectancy (years)",
+        "id": "LIFE",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "< 58",
+                "color": "RGB(110,31,31)"
+            },
+            {
+                "label": "58 - 61",
+                "color": "RGB(232,89,97)"
+            },
+            {
+                "label": "61 - 64",
+                "color": "RGB(244,161,167)"
+            },
+            {
+                "label": "64 - 67",
+                "color": "RGB(201,224,191)"
+            },
+            {
+                "label": "67 - 70",
+                "color": "RGB(148,201,69)"
+            },
+            {
+                "label": "> 70",
+                "color": "RGB(59,112,59)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_61_natural_disasters_a/FeatureServer/0",
+        "title": "Number of natural disaster event",
+        "id": "ND",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "< 10",
+                "color": "RGB(255,255,216)"
+            },
+            {
+                "label": "10 - 25",
+                "color": "RGB(255,226,155)"
+            },
+            {
+                "label": "25 - 40",
+                "color": "RGB(255,195,98)"
+            },
+            {
+                "label": "40 - 65",
+                "color": "RGB(255,155,66)"
+            },
+            {
+                "label": "65 - 100",
+                "color": "RGB(221,93,38)"
+            },
+            {
+                "label": "> 100",
+                "color": "RGB(156,51,22)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_62_enso_signal_a/FeatureServer/0",
+        "title": "Change in monthly rainfall (mm/\u00b0C)",
+        "id": "RV",
+        "legend": [
+            {
+                "label": "No changes",
+                "color": "RGB(204,204,204)"
+            },
+            {
+                "label": "> -5 to 0",
+                "color": "RGB(254,255,209)"
+            },
+            {
+                "label": "-10 - -5",
+                "color": "RGB(255,237,170)"
+            },
+            {
+                "label": "-15 - -10",
+                "color": "RGB(255,217,131)"
+            },
+            {
+                "label": "-20 - -15",
+                "color": "RGB(255,177,94)"
+            },
+            {
+                "label": "-30 - -20",
+                "color": "RGB(255,139,76)"
+            },
+            {
+                "label": "-40 - -30",
+                "color": "RGB(225,75,53)"
+            },
+            {
+                "label": "-50 - -40",
+                "color": "RGB(232,17,36)"
+            },
+            {
+                "label": "-70 - -50",
+                "color": "RGB(194,0,41)"
+            },
+            {
+                "label": "> -70",
+                "color": "RGB(131,0,38)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_63_enso_subdistrict_class_a/FeatureServer/0",
+        "title": "sub-district classification of negative monthly rainfall",
+        "id": "NMR",
+        "legend": [
+            {
+                "label": "No data/Urban area",
+                "color": "RGB(255,255,255)"
+            },
+            {
+                "label": "No change",
+                "color": "RGB(255,255,216)"
+            },
+            {
+                "label": "Very low",
+                "color": "RGB(255,226,155)"
+            },
+            {
+                "label": "Low",
+                "color": "RGB(255,195,98)"
+            },
+            {
+                "label": "Moderate",
+                "color": "RGB(255,155,66)"
+            },
+            {
+                "label": "High",
+                "color": "RGB(221,93,38)"
+            },
+            {
+                "label": "Very high",
+                "color": "RGB(156,51,22)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_64_drought_production_loss_a/FeatureServer/0",
+        "title": "Average rice production loss due to drought (Ton)",
+        "id": "ARPD",
+        "legend": [
+            {
+                "label": "No data",
+                "color": "RGB(214,214,214)"
+            },
+            {
+                "label": "< 10",
+                "color": "RGB(255,203,203)"
+            },
+            {
+                "label": "10 - 150",
+                "color": "RGB(239,51,66)"
+            }
+        ]
+    },
+    {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_65_flood_production_loss_a/FeatureServer/0",
+        "title": "Average rice production loss due to flood (Ton)",
+        "id": "ARPF",
+        "legend": [
+            {
+                "label": "No data",
+                "color": "RGB(214,214,214)"
+            },
+            {
+                "label": "0 - 8",
+                "color": "RGB(239,51,66)"
+            }
+        ]
+    }
+]

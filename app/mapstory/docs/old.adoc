@@ -1,0 +1,152 @@
+FSVA Online Development Guide
+=============================
+Ridwan Mulyadi <ridwan.mulyadi@live.com>
+:Author Initials: RM
+:toc:
+:icons:
+:numbered:
+:website:
+
+Introduction
+------------
+FSVA (Food Security and Vulnerability Atlas) Online is a web
+application to present information about FSVA program that
+WFP has.
+
+
+Structure
+---------
+FSVA Online can be divided into three main parts:
+
+1. Main Web Page
+2. Custom Pages
+3. Local Database
+
+Main Web Page
+~~~~~~~~~~~~~
+
+The FSVA itself is a kind of SPA (Single Page Application). 
+The front page consist of three main panes:
+
+1. Menu Pane - _located on left side_
+2. Narration Pane - _located on the center, retractable_
+3. Content Pane - _located on right side_
+
+Custom Pages
+~~~~~~~~~~~~
+
+Custom pages contains pages that will be shown on Content Pane
+on the Main Web Page. User can click on the menu and Content
+Pane will load the assigned Custom Pages for that particular menu.
+
+Local Database
+~~~~~~~~~~~~~
+
+FSVA Online uses file as database for portability. Most of the
+data that is required to be shown is not that big (less than 1MB).
+The database file (in csv and json) format are loaded to the browser
+and queried locally. Some functions like download cvs are also
+using the local database file loaded on server side to generate
+file that will be downloaded by user's browser.
+
+Installation
+------------
+
+Prerequisite
+~~~~~~~~~~~~~
+- io.js >= 2.3.3 (http://iojs.org[iojs.org])
+- Bower (http://bower.io[bower.io])
+- Webpack (http://webpack.github.io[webpack.github.io])
+- Babel JS (https://babeljs.io[babeljs.io])
+- Nodemon (http://nodemon.io/[nodemon.io])
+- Nginx (http://nginx.org/[nginx.org])
+
+Most of Javascript files on FSVA Online uses ES6 format.
+For browser execution the javascript files will be packed by
+webpack and transpiled on the fly with Babel JS back to ES5 format.
+For server side execution, io.js is used. Io.js is a javascript for
+server side, a fork of the original NodeJs but with more
+ES6 support.
+
+For Operating System, the three prominent OS (Linux / Windows / Mac
+OS) will work for hosting FSVA Online app. But Linux would be easier
+to work with and FSVA Online has been tested under Linux only.
+
+There are other external libraries used in FSVA Online
+for browser side and server side. Those will be described later.
+
+Extract FSVA Online Source Code
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[source, bash]
+----------------------------------------------------------------------
+unzip fsva-online.zip /path/to/fsva
+----------------------------------------------------------------------
+
+Install Server-side dependencies
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Server-side dependencies are managed by https://www.npmjs.com/[NPM].
+The NPM bootstrap file (`package.json`) is located under the root
+of FSVA Online directory. The shell needs to be in root folder of
+FSVA Online then call this command:
+
+[source, bash]
+----------------------------------------------------------------------
+npm install
+----------------------------------------------------------------------
+
+Then wait until NPM finished fetching remote dependencies. There will
+be several dependencies outside npm repository managed by
+https://github.com/shama/napa [napa], to install:
+
+[source, bash]
+----------------------------------------------------------------------
+npm run napa
+----------------------------------------------------------------------
+
+Then wait until Bower finished fetching remote dependencies.
+
+Transpile ES6 and CssNext Files
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FSVA Online client side source codes are located on public/
+directory. Most of the source codes are using newer format that's
+not yet supported on standard web browser. So It uses
+http://webpack.github.io/[Webpack] along with BabelJS and CssNext to
+combine newer format source codes (ES6 + CSS4) and produce older format
+(ES5 + CSS3) located on public/dist that would be supported
+on modern browser today.
+
+To pack the source codes, go to the FSVA root directory and run
+this command:
+
+[source, bash]
+----------------------------------------------------------------------
+webpack
+----------------------------------------------------------------------
+
+Run the FSVA Online Server
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To run the FSVA Online, firstly run the nodemon for starting
+server side Javascript app.
+
+[source, bash]
+----------------------------------------------------------------------
+nodemon
+----------------------------------------------------------------------
+
+The port that will be used is based on server/config.js file that will
+be described later.
+
+Note that the nodemon process will not log the request made to the
+server extensively. To log the external request, use http://nginx.org/[nginx]
+as the front server, then reverse proxy the request made to nginx
+to FSVA nodemon process. Nginx will have the log stored on its own.
+
+
+Configure
+~~~~~~~~~
+
+Not yet

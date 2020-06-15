@@ -1,0 +1,36 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_district_class_on_rainfall_change_a/FeatureServer/0"
+    },
+    "title": "Klasifikasi kabupaten yang mengalami perubahan negatif curah hujan bulanan",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "Tidak ada data / daerah Perkotaan"
+        },
+        {
+            "color": "RGB(204,204,204)",
+            "label": "Tidak ada perubahan"
+        },
+        {
+            "color": "RGB(255,255,212)",
+            "label": "Sangat rendah"
+        },
+        {
+            "color": "RGB(255,218,143)",
+            "label": "Rendah"
+        },
+        {
+            "color": "RGB(255,155,44)",
+            "label": "Sedang"
+        },
+        {
+            "color": "RGB(217,95,13)",
+            "label": "Tinggi"
+        },
+        {
+            "color": "RGB(153,52,5)",
+            "label": "Sangat tinggi"
+        }
+    ]
+}

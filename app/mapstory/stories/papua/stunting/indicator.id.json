@@ -1,0 +1,13 @@
+{
+    "indicators": [
+        {
+            "id": "STUN",
+            "label": "Prevalensi",
+            "range": {
+                "max": 51.7267692348,
+                "min": 26.3319180409
+            },
+            "description": "Prevalensi dari anak di bawah 5 tahun yang memiliki tinggi badan kurang"
+        }
+    ]
+}

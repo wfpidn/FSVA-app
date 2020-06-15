@@ -1,0 +1,48 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_61_enso_signal_a/FeatureServer/0"
+    },
+    "title": "Perubahan curah hujan bulanan dengan kenaikan 1 derajat pada suhu permukaan laut (mm/\u00b0C)",
+    "legend": [
+        {
+            "color": "RGB(170,1,41)",
+            "label": "< -80"
+        },
+        {
+            "color": "RGB(222,53,48)",
+            "label": "-80 - -60"
+        },
+        {
+            "color": "RGB(252,119,80)",
+            "label": "-60 - -40"
+        },
+        {
+            "color": "RGB(255,191,121)",
+            "label": "-40 - -20"
+        },
+        {
+            "color": "RGB(255,237,171)",
+            "label": "-20 - 0"
+        },
+        {
+            "color": "RGB(225,225,225)",
+            "label": "Tidak ada perubahan"
+        },
+        {
+            "color": "RGB(178,223,130)",
+            "label": "0 - 20"
+        },
+        {
+            "color": "RGB(106,194,111)",
+            "label": "20 - 40"
+        },
+        {
+            "color": "RGB(0,157,91)",
+            "label": "40 - 60"
+        },
+        {
+            "color": "RGB(0,105,61)",
+            "label": "> 60"
+        }
+    ]
+}

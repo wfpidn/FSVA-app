@@ -1,0 +1,695 @@
+[
+    {
+        "indicatorId": "STUN",
+        "province": "Aceh",
+        "year": 2007,
+        "value": 44.5757813845,
+        "provinceId": 11
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Aceh",
+        "year": 2010,
+        "value": 38.925962586,
+        "provinceId": 11
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Aceh",
+        "year": 2013,
+        "value": 41.5037324477,
+        "provinceId": 11
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Utara",
+        "year": 2007,
+        "value": 43.1293893646,
+        "provinceId": 12
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Utara",
+        "year": 2010,
+        "value": 42.3000751555,
+        "provinceId": 12
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Utara",
+        "year": 2013,
+        "value": 42.4900235137,
+        "provinceId": 12
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Barat",
+        "year": 2007,
+        "value": 36.5065640981,
+        "provinceId": 13
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Barat",
+        "year": 2010,
+        "value": 32.755506481,
+        "provinceId": 13
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Barat",
+        "year": 2013,
+        "value": 39.2382703343,
+        "provinceId": 13
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Riau",
+        "year": 2007,
+        "value": 32.973314423,
+        "provinceId": 14
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Riau",
+        "year": 2010,
+        "value": 32.1540062018,
+        "provinceId": 14
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Riau",
+        "year": 2013,
+        "value": 36.7574491004,
+        "provinceId": 14
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jambi",
+        "year": 2007,
+        "value": 36.3812779957,
+        "provinceId": 15
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jambi",
+        "year": 2010,
+        "value": 30.1881733123,
+        "provinceId": 15
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jambi",
+        "year": 2013,
+        "value": 37.926597346,
+        "provinceId": 15
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Selatan",
+        "year": 2007,
+        "value": 44.7027059579,
+        "provinceId": 16
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Selatan",
+        "year": 2010,
+        "value": 40.3580685586,
+        "provinceId": 16
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sumatera Selatan",
+        "year": 2013,
+        "value": 36.7467842711,
+        "provinceId": 16
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bengkulu",
+        "year": 2007,
+        "value": 36.0093944139,
+        "provinceId": 17
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bengkulu",
+        "year": 2010,
+        "value": 31.5766471413,
+        "provinceId": 17
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bengkulu",
+        "year": 2013,
+        "value": 39.6984446122,
+        "provinceId": 17
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Lampung",
+        "year": 2007,
+        "value": 38.6950487079,
+        "provinceId": 18
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Lampung",
+        "year": 2010,
+        "value": 36.259661727,
+        "provinceId": 18
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Lampung",
+        "year": 2013,
+        "value": 42.6363277881,
+        "provinceId": 18
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Bangka Belitung",
+        "year": 2007,
+        "value": 35.524637591,
+        "provinceId": 19
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Bangka Belitung",
+        "year": 2010,
+        "value": 29.0408495047,
+        "provinceId": 19
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Bangka Belitung",
+        "year": 2013,
+        "value": 28.6578376753,
+        "provinceId": 19
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Riau",
+        "year": 2007,
+        "value": 26.1711626034,
+        "provinceId": 21
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Riau",
+        "year": 2010,
+        "value": 26.8615018543,
+        "provinceId": 21
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kepulauan Riau",
+        "year": 2013,
+        "value": 26.3319180409,
+        "provinceId": 21
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Dki Jakarta",
+        "year": 2007,
+        "value": 26.712198997,
+        "provinceId": 31
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Dki Jakarta",
+        "year": 2010,
+        "value": 26.5707350566,
+        "provinceId": 31
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Dki Jakarta",
+        "year": 2013,
+        "value": 27.5038845925,
+        "provinceId": 31
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Barat",
+        "year": 2007,
+        "value": 35.4539184464,
+        "provinceId": 32
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Barat",
+        "year": 2010,
+        "value": 33.6342795444,
+        "provinceId": 32
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Barat",
+        "year": 2013,
+        "value": 35.3274156409,
+        "provinceId": 32
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Tengah",
+        "year": 2007,
+        "value": 36.4610276181,
+        "provinceId": 33
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Tengah",
+        "year": 2010,
+        "value": 33.8576250298,
+        "provinceId": 33
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Tengah",
+        "year": 2013,
+        "value": 36.7554208463,
+        "provinceId": 33
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "D I Yogyakarta",
+        "year": 2007,
+        "value": 27.5924347885,
+        "provinceId": 34
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "D I Yogyakarta",
+        "year": 2010,
+        "value": 22.5277678252,
+        "provinceId": 34
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "D I Yogyakarta",
+        "year": 2013,
+        "value": 27.2449659673,
+        "provinceId": 34
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Timur",
+        "year": 2007,
+        "value": 34.8348565837,
+        "provinceId": 35
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Timur",
+        "year": 2010,
+        "value": 35.8502163512,
+        "provinceId": 35
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Jawa Timur",
+        "year": 2013,
+        "value": 35.8087363613,
+        "provinceId": 35
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Banten",
+        "year": 2007,
+        "value": 38.9607519118,
+        "provinceId": 36
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Banten",
+        "year": 2010,
+        "value": 33.5217733083,
+        "provinceId": 36
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Banten",
+        "year": 2013,
+        "value": 32.9893901193,
+        "provinceId": 36
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bali",
+        "year": 2007,
+        "value": 30.9641835641,
+        "provinceId": 51
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bali",
+        "year": 2010,
+        "value": 29.2721271632,
+        "provinceId": 51
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Bali",
+        "year": 2013,
+        "value": 32.5274273889,
+        "provinceId": 51
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Barat",
+        "year": 2007,
+        "value": 43.6533964765,
+        "provinceId": 52
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Barat",
+        "year": 2010,
+        "value": 48.2154243448,
+        "provinceId": 52
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Barat",
+        "year": 2013,
+        "value": 45.2625293249,
+        "provinceId": 52
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Timur",
+        "year": 2007,
+        "value": 46.7556092396,
+        "provinceId": 53
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Timur",
+        "year": 2010,
+        "value": 58.4395902101,
+        "provinceId": 53
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Nusa Tenggara Timur",
+        "year": 2013,
+        "value": 51.7267692348,
+        "provinceId": 53
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Barat",
+        "year": 2007,
+        "value": 39.262306765,
+        "provinceId": 61
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Barat",
+        "year": 2010,
+        "value": 39.718228677,
+        "provinceId": 61
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Barat",
+        "year": 2013,
+        "value": 38.6030338583,
+        "provinceId": 61
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Tengah",
+        "year": 2007,
+        "value": 42.7188795171,
+        "provinceId": 62
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Tengah",
+        "year": 2010,
+        "value": 39.6150976955,
+        "provinceId": 62
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Tengah",
+        "year": 2013,
+        "value": 41.3167901858,
+        "provinceId": 62
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Selatan",
+        "year": 2007,
+        "value": 41.8480902272,
+        "provinceId": 63
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Selatan",
+        "year": 2010,
+        "value": 35.2821589908,
+        "provinceId": 63
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Selatan",
+        "year": 2013,
+        "value": 44.2417494983,
+        "provinceId": 63
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Timur",
+        "year": 2007,
+        "value": 35.1544650552,
+        "provinceId": 64
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Timur",
+        "year": 2010,
+        "value": 29.1113266398,
+        "provinceId": 64
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Kalimantan Timur",
+        "year": 2013,
+        "value": 27.5222192323,
+        "provinceId": 64
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Utara",
+        "year": 2007,
+        "value": 31.2172477465,
+        "provinceId": 71
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Utara",
+        "year": 2010,
+        "value": 27.7708232548,
+        "provinceId": 71
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Utara",
+        "year": 2013,
+        "value": 34.8308285921,
+        "provinceId": 71
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tengah",
+        "year": 2007,
+        "value": 40.3643006622,
+        "provinceId": 72
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tengah",
+        "year": 2010,
+        "value": 36.1684859077,
+        "provinceId": 72
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tengah",
+        "year": 2013,
+        "value": 41.055507815,
+        "provinceId": 72
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Selatan",
+        "year": 2007,
+        "value": 29.0738697803,
+        "provinceId": 73
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Selatan",
+        "year": 2010,
+        "value": 38.9127925516,
+        "provinceId": 73
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Selatan",
+        "year": 2013,
+        "value": 40.9113658108,
+        "provinceId": 73
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tenggara",
+        "year": 2007,
+        "value": 40.5404227673,
+        "provinceId": 74
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tenggara",
+        "year": 2010,
+        "value": 37.8136751323,
+        "provinceId": 74
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Tenggara",
+        "year": 2013,
+        "value": 42.5952236635,
+        "provinceId": 74
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Gorontalo",
+        "year": 2007,
+        "value": 39.9035656993,
+        "provinceId": 75
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Gorontalo",
+        "year": 2010,
+        "value": 40.2796403914,
+        "provinceId": 75
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Gorontalo",
+        "year": 2013,
+        "value": 38.9231984494,
+        "provinceId": 75
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Barat",
+        "year": 2007,
+        "value": 44.4725245723,
+        "provinceId": 76
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Barat",
+        "year": 2010,
+        "value": 41.5589541902,
+        "provinceId": 76
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Sulawesi Barat",
+        "year": 2013,
+        "value": 48.0212073139,
+        "provinceId": 76
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku",
+        "year": 2007,
+        "value": 45.837455428,
+        "provinceId": 81
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku",
+        "year": 2010,
+        "value": 37.4540230471,
+        "provinceId": 81
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku",
+        "year": 2013,
+        "value": 40.5655734613,
+        "provinceId": 81
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku Utara",
+        "year": 2007,
+        "value": 40.1694547035,
+        "provinceId": 82
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku Utara",
+        "year": 2010,
+        "value": 29.4119718517,
+        "provinceId": 82
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Maluku Utara",
+        "year": 2013,
+        "value": 41.0024915743,
+        "provinceId": 82
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua Barat",
+        "year": 2007,
+        "value": 39.4287775507,
+        "provinceId": 91
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua Barat",
+        "year": 2010,
+        "value": 49.1692400794,
+        "provinceId": 91
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua Barat",
+        "year": 2013,
+        "value": 44.6419743003,
+        "provinceId": 91
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua",
+        "year": 2007,
+        "value": 37.6878631349,
+        "provinceId": 94
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua",
+        "year": 2010,
+        "value": 28.3244660344,
+        "provinceId": 94
+    },
+    {
+        "indicatorId": "STUN",
+        "province": "Papua",
+        "year": 2013,
+        "value": 40.0843263094,
+        "provinceId": 94
+    }
+]

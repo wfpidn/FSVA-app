@@ -1,0 +1,36 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_68_deforestation_hectares_12years_a/FeatureServer/0"
+    },
+    "title": "Laju deforestasi dalam hektar per tahun",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "Tidak ada data / daerah Perkotaan"
+        },
+        {
+            "color": "RGB(255,230,218)",
+            "label": "< 1000"
+        },
+        {
+            "color": "RGB(255,186,166)",
+            "label": "1000 - 3000"
+        },
+        {
+            "color": "RGB(255,144,120)",
+            "label": "3000 - 7500"
+        },
+        {
+            "color": "RGB(255,103,78)",
+            "label": "7500 - 12000"
+        },
+        {
+            "color": "RGB(228,41,46)",
+            "label": "12000 - 20000"
+        },
+        {
+            "color": "RGB(170,13,27)",
+            "label": "> 20000"
+        }
+    ]
+}

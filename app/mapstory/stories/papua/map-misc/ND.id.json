@@ -1,0 +1,24 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_61_natural_disasters_a/FeatureServer/0"
+    },
+    "title": "Jumlah kejadian bencana alam",
+    "legend": [
+        {
+            "color": "RGB(204,204,204)",
+            "label": "Tidak ada data bencana"
+        },
+        {
+            "color": "RGB(255,213,167)",
+            "label": "< 2"
+        },
+        {
+            "color": "RGB(255,163,128)",
+            "label": "2 - 5"
+        },
+        {
+            "color": "RGB(227,87,82)",
+            "label": "> 5"
+        }
+    ]
+}

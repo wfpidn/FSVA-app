@@ -1,0 +1,15 @@
+# initscripts for systemd services
+# place in /etc/systemd/system/app-mapstory.service
+
+[Service]
+ExecStart=/usr/bin/node /home/fsva/app/mapstory/index.js
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=app-mapstory
+User=fsva
+Group=fsva
+Environment=NODE_ENV=production
+
+[Install]
+WantedBy=multi-user.target

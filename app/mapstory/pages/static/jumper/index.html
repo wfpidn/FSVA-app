@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <style>
+     html, body, #image {
+         width: 100%;
+         height: 100%;
+         padding: 0;
+         margin: 0;
+     }
+     #image {
+         background: url('./map.jpg');
+         background-size: cover;
+         background-repeat: no-repeat;
+     }
+     #bar {
+         position: absolute;
+         top: 50%;
+         right: 0;
+         left: 0;
+         background: rgba(0,0,0,0.3);
+         text-align: right;
+         margin-top: -50px;
+         padding: 30px 50px;
+         cursor: pointer;
+     }
+     .next {
+         font-size: 40px;
+         font-family: 'Voltaire', sans-serif;
+         font-weight: normal;
+         color: #EEE;
+         display: inline-block;
+         margin-bottom: 10px;
+     }
+     .title {
+         font-size: 20px;
+         font-family: 'Voltaire', sans-serif;
+         font-weight: normal;
+         max-width: 600px;
+         display: inline-block;
+         color: #FFF;
+     }
+    </style>
+  </head>
+  <body>
+    <div id="image"></div>
+    <div id="bar">
+      <span class="next"><span class="next-label"></span> &raquo;</span>
+      <br/>
+      <span class="title"></h2>
+    </div>
+
+    <script src="/public/dist/vendor.js"></script>
+    <script src="/public/dist/static.js"></script>
+    <script src="./lang.js"></script>
+    <script>
+     var $ = window.app.libs.jQuery;
+     var params = window.app.params;
+
+     $.getJSON('/stories/' + params.storyId + '/story.json').then(function(data) {
+       var section = data.sections.filter(function(e) {
+         return e.id === params.sectionId
+       })[0];
+
+       if (section) {
+         $('.title').text(section.title);
+         $('.next-label').text(window.app.lang['next']);
+         window.app.tellReady();
+       }
+     });
+
+     $(document).on('click', function() {
+       window.parent.postMessage({
+         header: 'section.jump',
+         body: {
+           storyId: params.storyId,
+           sectionId: params.sectionId
+         }
+       }, '*');
+     });
+    </script>
+  </body>
+</html>

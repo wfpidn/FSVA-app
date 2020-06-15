@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_52_life_a/FeatureServer/0"
+    },
+    "title": "Life expectancy (years)",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "< 58"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "58 - 61"
+        },
+        {
+            "color": "RGB(244,161,167)",
+            "label": "61 - 64"
+        },
+        {
+            "color": "RGB(201,224,191)",
+            "label": "64 - 67"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "67 - 70"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "> 70"
+        }
+    ],
+    "indicator": {
+        "id": "LIFE"
+    }
+}

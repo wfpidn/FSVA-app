@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Document</title>
+    <link rel="stylesheet" href="http://js.arcgis.com/3.13/esri/css/esri.css">
+    <link href="/pages/map/style.css" rel="stylesheet"/>
+
+    <script type="text/template" id="template-header">
+      <div>
+        <div class="header">
+          <button
+              v-for="button in buttons"
+              :class="{button: 1, active: button.active}"
+              @click="click(button)">
+            {{button.label}}
+          </button>
+        </div>
+        <div class="legend" v-show="config.legend && toggle.legend">
+          <span>{{{config.title}}}</span>
+          <hr/>
+          <div v-for="row in config.legend"
+              class="legend-row">
+            <span class="legend-box" :style="{background: row.color}"></span>
+            <span>{{row.label}}</span>
+          </div>
+        </div>
+      </div>
+    </script>
+
+    <script type="text/template" id="template-popup-table">
+      <table class="dt"></table>
+    </script>
+
+    <script type="text/template" id="template-popup-hover">
+      <div>
+        <div v-for="d in config.map.area.drill">
+          <strong>{{d.label}}:&nbsp;</strong>
+          {{area[d.attr]}}
+        </div>
+        <div v-show="show.chart" style="margin-top: 10px">
+          <div>
+            <small>{{indicator.description}}</small>
+          </div>
+          <hr/>
+          <div class="chart" style="width: 100%; height: 200px"></div>
+          <hr/>
+          <span style="color: #666; font-size: 0.7em">{{'popup.hover.footer' | lang}}</span>
+        </div>
+      </div>
+    </script>
+
+    <script type="text/template" id="template-popup-click">
+      <div>
+        <div v-for="d in config.map.area.drill">
+          <strong>{{d.label}}:&nbsp;</strong>
+          {{area[d.attr]}}
+        </div>
+
+        <br/>
+        <span>{{'popup.district.priority' | lang }} {{priority}}</span>
+
+        <h3>{{'static.indicators' | lang}}</h3>
+        <div style="overflow: auto; padding-bottom: 5px;">
+          <table class="pure-table table-area">
+            <thead>
+              <tr>
+                <th>{{'static.year' | lang}}</th>
+                <th v-for="h in table.header"
+                    :title="h.description">
+                  <span class="indicator-header">
+                    {{h.label}}
+                  </span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="row in table.rows">
+                <td>{{row.year}}</td>
+                <td v-for="value in row.values" class="num" track-by="$index">
+                  {{value | numeral '0,0.00'}}
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="pure-g">
+          <div class="pure-u-1-2">
+            <h3>{{'static.priority' | lang}}</h3>
+            <div class="chart-priority" style="height: 180px;"></div>
+          </div>
+          <div class="pure-u-1-2">
+            <h3>{{'static.poverty' | lang}}</h3>
+            <div class="chart-poverty" style="height: 180px;"></div>
+          </div>
+        </div>
+      </div>
+    </script>
+  </head>
+
+  <body>
+    <div id="vue-header"></div>
+    <div id="map-container"></div>
+    <div id="map-cover"></div>
+
+    <script src="http://js.arcgis.com/3.13/"></script>
+    <script>window.app = {};</script>
+    <script src="/public/dist/vendor.js"></script>
+    <script src="/public/dist/module-based.js"></script>
+    <script src="/pages/map/lang.js"></script>
+    <script src="/stories/main/lang.js"></script>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_65_flood_production_loss_a/FeatureServer/0"
+    },
+    "title": "Rata-rata kehilangan produksi padi akibat banjir (ton)",
+    "legend": [
+        {
+            "color": "RGB(214,214,214)",
+            "label": "Tidak ada data"
+        },
+        {
+            "color": "RGB(255,229,219)",
+            "label": "< 1000"
+        },
+        {
+            "color": "RGB(255,173,153)",
+            "label": "1000 - 5000"
+        },
+        {
+            "color": "RGB(255,101,85)",
+            "label": "5000 - 10000"
+        },
+        {
+            "color": "RGB(232,42,54)",
+            "label": "10000 - 20000"
+        },
+        {
+            "color": "RGB(173,0,24)",
+            "label": "> 20000"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Read the FSVA reports online",
+    "background": "#7FA128",
+    "cover": "/stories/main/pdf-cover.jpg",
+    "links": [
+        {
+            "label": "Full FSVA report - Bahasa Indonesia",
+            "path": "/public/attachments/fsva_full_id.pdf"
+        },
+        {
+            "label": "Full FSVA report - English",
+            "path": "/public/attachments/fsva_full_en.pdf"
+        },
+        {
+            "label": "Brief advocacy version - Bahasa Indonesia",
+            "path": "/public/attachments/fsva_adv_id.pdf"
+        },
+        {
+            "label": "Brief advocacy version - English",
+            "path": "/public/attachments/fsva_adv_en.pdf"
+        }
+    ]
+}

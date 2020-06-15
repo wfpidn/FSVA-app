@@ -1,0 +1,23 @@
+{
+    "title": "Membaca laporan FSVA online",
+    "background": "#7FA128",
+    "cover": "/stories/main/pdf-cover.jpg",
+    "links": [
+        {
+            "label": "Laporan FSVA lengkap – Bahasa Indonesia",
+            "path": "/public/attachments/fsva_full_id.pdf"
+        },
+        {
+            "label": "Laporan FSVA lengkap – Bahasa Inggris",
+            "path": "/public/attachments/fsva_full_en.pdf"
+        },
+        {
+            "label": "Advokasi versi singkat  – Bahasa Indonesia",
+            "path": "/public/attachments/fsva_adv_id.pdf"
+        },
+        {
+            "label": "Advokasi versi singkat – Bahasa Inggris",
+            "path": "/public/attachments/fsva_adv_en.pdf"
+        }
+    ]
+}

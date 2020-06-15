@@ -1,0 +1,81 @@
+{
+    "map": {
+        "extent": {
+            "xmin": 93.85,
+            "ymin": -7.44,
+            "xmax": 146.14,
+            "ymax": 2.46
+        },
+        "area": {
+            "src": "A2CODE",
+            "dst": "districtId",
+            "drill": [
+                {
+                    "label": "Provinsi",
+                    "attr": "province"
+                },
+                {
+                    "label": "Kabupaten",
+                    "attr": "district"
+                }
+            ]
+        }
+    },
+    "modules": [
+        "/pages/map/esri-map",
+        "/pages/map/header",
+        "/pages/map/indicator",
+        "/pages/map/csv",
+        "/pages/map/map-hover",
+        "/pages/map/map-click"
+    ],
+    "dataset": "/stories/main/dataset.json",
+    "table": {
+        "columns": [
+            {
+                "title": "Tahun",
+                "width": "15%",
+                "attr": "year"
+            },
+            {
+                "title": "Provinsi",
+                "width": "35%",
+                "attr": "province"
+            },
+            {
+                "title": "Kabupaten",
+                "width": "35%",
+                "attr": "district"
+            },
+            {
+                "title": "%(indicator.label)s",
+                "width": "15%",
+                "attr": "value"
+            }
+        ],
+        "order": [
+            [
+                0,
+                "asc"
+            ],
+            [
+                1,
+                "asc"
+            ],
+            [
+                2,
+                "asc"
+            ]
+        ]
+    },
+    "hover": {
+        "chart": "column"
+    },
+    "expression": {
+        "showChart": "%(row.isRural)b === true",
+        "showRow": "%(row.isRural)b === true"
+    },
+    "indicator": {
+        "path": "/stories/shared/indicator.nation.json"
+    }
+}

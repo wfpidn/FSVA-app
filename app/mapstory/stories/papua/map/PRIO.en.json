@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_71_priority_a/FeatureServer/0"
+    },
+    "title": "Vulnerability based on composite food security index",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "Priority 1 Sub-district"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "Priority 2 Sub-district"
+        },
+        {
+            "color": "RGB(244,161,167)",
+            "label": "Priority 3 Sub-district"
+        },
+        {
+            "color": "RGB(201,224,191)",
+            "label": "Priority 4 Sub-district"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "Priority 5 Sub-district"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "Priority 6 Sub-district"
+        }
+    ],
+    "indicator": {
+        "id": "PRIO"
+    }
+}

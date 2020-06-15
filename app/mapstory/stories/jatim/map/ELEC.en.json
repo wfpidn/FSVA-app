@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_35_2015_32_elec_a/FeatureServer/0"
+    },
+    "title": "Percentage of household without access to electricity",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "> 50"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "40 - 50"
+        },
+        {
+            "color": "RGB(244,161,167)",
+            "label": "30 - 40"
+        },
+        {
+            "color": "RGB(201,224,191)",
+            "label": "20 - 30"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "10 - 20"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "< 10"
+        }
+    ],
+    "indicator": {
+        "id": "ELEC"
+    }
+}

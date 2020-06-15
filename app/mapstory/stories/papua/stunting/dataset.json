@@ -1,0 +1,962 @@
+[
+    {
+        "district": "Fakfak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9101,
+        "year": 2007,
+        "value": 42.2
+    },
+    {
+        "district": "Fakfak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9101,
+        "year": 2010,
+        "value": 52.7809500188473
+    },
+    {
+        "district": "Fakfak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9101,
+        "year": 2013,
+        "value": 43.6386639313541
+    },
+    {
+        "district": "Kaimana",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9102,
+        "year": 2007,
+        "value": 37.2
+    },
+    {
+        "district": "Kaimana",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9102,
+        "year": 2010,
+        "value": 46.5272829550028
+    },
+    {
+        "district": "Kaimana",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9102,
+        "year": 2013,
+        "value": 40.9735544483055
+    },
+    {
+        "district": "Teluk Wondama",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9103,
+        "year": 2007,
+        "value": 45.3
+    },
+    {
+        "district": "Teluk Wondama",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9103,
+        "year": 2010,
+        "value": 56.6582235984308
+    },
+    {
+        "district": "Teluk Wondama",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9103,
+        "year": 2013,
+        "value": 33.6049118988915
+    },
+    {
+        "district": "Teluk Bintuni",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9104,
+        "year": 2007,
+        "value": 40.9
+    },
+    {
+        "district": "Teluk Bintuni",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9104,
+        "year": 2010,
+        "value": 51.1549965822477
+    },
+    {
+        "district": "Teluk Bintuni",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9104,
+        "year": 2013,
+        "value": 39.5257495498267
+    },
+    {
+        "district": "Manokwari",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9105,
+        "year": 2007,
+        "value": 44.6
+    },
+    {
+        "district": "Manokwari",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9105,
+        "year": 2010,
+        "value": 55.7827102094926
+    },
+    {
+        "district": "Manokwari",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9105,
+        "year": 2013,
+        "value": 45.9309874208493
+    },
+    {
+        "district": "Sorong Selatan",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9106,
+        "year": 2007,
+        "value": 60.6
+    },
+    {
+        "district": "Sorong Selatan",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9106,
+        "year": 2010,
+        "value": 75.7944448137949
+    },
+    {
+        "district": "Sorong Selatan",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9106,
+        "year": 2013,
+        "value": 60.6992529978223
+    },
+    {
+        "district": "Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9107,
+        "year": 2007,
+        "value": 29.9
+    },
+    {
+        "district": "Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9107,
+        "year": 2010,
+        "value": 37.3969290417899
+    },
+    {
+        "district": "Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9107,
+        "year": 2013,
+        "value": 41.7614981750089
+    },
+    {
+        "district": "Raja Ampat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9108,
+        "year": 2007,
+        "value": 47.3
+    },
+    {
+        "district": "Raja Ampat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9108,
+        "year": 2010,
+        "value": 59.1596904239686
+    },
+    {
+        "district": "Raja Ampat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9108,
+        "year": 2013,
+        "value": 46.0729069090809
+    },
+    {
+        "district": "Tambrauw",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9109,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Tambrauw",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9109,
+        "year": 2010,
+        "value": 31.2672
+    },
+    {
+        "district": "Tambrauw",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9109,
+        "year": 2013,
+        "value": 59.2865382121938
+    },
+    {
+        "district": "Maybrat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9110,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Maybrat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9110,
+        "year": 2010,
+        "value": 24.2976
+    },
+    {
+        "district": "Maybrat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9110,
+        "year": 2013,
+        "value": 38.1852108323456
+    },
+    {
+        "district": "Kota Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9171,
+        "year": 2007,
+        "value": 27.4
+    },
+    {
+        "district": "Kota Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9171,
+        "year": 2010,
+        "value": 34.2700955098677
+    },
+    {
+        "district": "Kota Sorong",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9171,
+        "year": 2013,
+        "value": 45.5372838437812
+    },
+    {
+        "district": "Merauke",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9401,
+        "year": 2007,
+        "value": 26.4
+    },
+    {
+        "district": "Merauke",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9401,
+        "year": 2010,
+        "value": 21.238922227684
+    },
+    {
+        "district": "Merauke",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9401,
+        "year": 2013,
+        "value": 23.1751529552863
+    },
+    {
+        "district": "Jayawijaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9402,
+        "year": 2007,
+        "value": 49.8
+    },
+    {
+        "district": "Jayawijaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9402,
+        "year": 2010,
+        "value": 40.0643305658585
+    },
+    {
+        "district": "Jayawijaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9402,
+        "year": 2013,
+        "value": 49.8776821966002
+    },
+    {
+        "district": "Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9403,
+        "year": 2007,
+        "value": 33.3
+    },
+    {
+        "district": "Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9403,
+        "year": 2010,
+        "value": 26.790004173556
+    },
+    {
+        "district": "Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9403,
+        "year": 2013,
+        "value": 35.0509440325595
+    },
+    {
+        "district": "Nabire",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9404,
+        "year": 2007,
+        "value": 34.9
+    },
+    {
+        "district": "Nabire",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9404,
+        "year": 2010,
+        "value": 28.0772115812944
+    },
+    {
+        "district": "Nabire",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9404,
+        "year": 2013,
+        "value": 46.7525619877581
+    },
+    {
+        "district": "Yapen Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9408,
+        "year": 2007,
+        "value": 36.1
+    },
+    {
+        "district": "Yapen Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9408,
+        "year": 2010,
+        "value": 29.0426171370982
+    },
+    {
+        "district": "Yapen Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9408,
+        "year": 2013,
+        "value": 40.1238532635848
+    },
+    {
+        "district": "Biak Numfor",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9409,
+        "year": 2007,
+        "value": 34.9
+    },
+    {
+        "district": "Biak Numfor",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9409,
+        "year": 2010,
+        "value": 28.0772115812944
+    },
+    {
+        "district": "Biak Numfor",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9409,
+        "year": 2013,
+        "value": 50.5748032249942
+    },
+    {
+        "district": "Paniai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9410,
+        "year": 2007,
+        "value": 50
+    },
+    {
+        "district": "Paniai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9410,
+        "year": 2010,
+        "value": 40.2252314918258
+    },
+    {
+        "district": "Paniai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9410,
+        "year": 2013,
+        "value": 31.4373367071406
+    },
+    {
+        "district": "Puncak Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9411,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Puncak Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9411,
+        "year": 2010,
+        "value": 29.41
+    },
+    {
+        "district": "Puncak Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9411,
+        "year": 2013,
+        "value": 35.028864550363
+    },
+    {
+        "district": "Mimika",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9412,
+        "year": 2007,
+        "value": 33.5
+    },
+    {
+        "district": "Mimika",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9412,
+        "year": 2010,
+        "value": 26.9509050995233
+    },
+    {
+        "district": "Mimika",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9412,
+        "year": 2013,
+        "value": 34.2214020903433
+    },
+    {
+        "district": "Boven Digoel",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9413,
+        "year": 2007,
+        "value": 37.6
+    },
+    {
+        "district": "Boven Digoel",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9413,
+        "year": 2010,
+        "value": 30.249374081853
+    },
+    {
+        "district": "Boven Digoel",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9413,
+        "year": 2013,
+        "value": 44.3399186381795
+    },
+    {
+        "district": "Mappi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9414,
+        "year": 2007,
+        "value": 35.6
+    },
+    {
+        "district": "Mappi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9414,
+        "year": 2010,
+        "value": 28.6403648221799
+    },
+    {
+        "district": "Mappi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9414,
+        "year": 2013,
+        "value": 50.0271362095337
+    },
+    {
+        "district": "Asmat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9415,
+        "year": 2007,
+        "value": 30.9
+    },
+    {
+        "district": "Asmat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9415,
+        "year": 2010,
+        "value": 24.8591930619483
+    },
+    {
+        "district": "Asmat",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9415,
+        "year": 2013,
+        "value": 31.5163825337404
+    },
+    {
+        "district": "Yahukimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9416,
+        "year": 2007,
+        "value": 49.5
+    },
+    {
+        "district": "Yahukimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9416,
+        "year": 2010,
+        "value": 39.8229791769075
+    },
+    {
+        "district": "Yahukimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9416,
+        "year": 2013,
+        "value": 33.0518547640624
+    },
+    {
+        "district": "Pegunungan Bintang",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9417,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Pegunungan Bintang",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9417,
+        "year": 2010,
+        "value": 28.59
+    },
+    {
+        "district": "Pegunungan Bintang",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9417,
+        "year": 2013,
+        "value": 46.4108108191672
+    },
+    {
+        "district": "Tolikara",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9418,
+        "year": 2007,
+        "value": 50.8
+    },
+    {
+        "district": "Tolikara",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9418,
+        "year": 2010,
+        "value": 40.868835195695
+    },
+    {
+        "district": "Tolikara",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9418,
+        "year": 2013,
+        "value": 52.0059573683869
+    },
+    {
+        "district": "Sarmi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9419,
+        "year": 2007,
+        "value": 16.7
+    },
+    {
+        "district": "Sarmi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9419,
+        "year": 2010,
+        "value": 13.4352273182698
+    },
+    {
+        "district": "Sarmi",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9419,
+        "year": 2013,
+        "value": 29.3045410241877
+    },
+    {
+        "district": "Keerom",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9420,
+        "year": 2007,
+        "value": 30.7
+    },
+    {
+        "district": "Keerom",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9420,
+        "year": 2010,
+        "value": 24.698292135981
+    },
+    {
+        "district": "Keerom",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9420,
+        "year": 2013,
+        "value": 42.8466674162855
+    },
+    {
+        "district": "Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9426,
+        "year": 2007,
+        "value": 57.4
+    },
+    {
+        "district": "Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9426,
+        "year": 2010,
+        "value": 46.178565752616
+    },
+    {
+        "district": "Waropen",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9426,
+        "year": 2013,
+        "value": 30.3283354092423
+    },
+    {
+        "district": "Supiori",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9427,
+        "year": 2007,
+        "value": 46.3
+    },
+    {
+        "district": "Supiori",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9427,
+        "year": 2010,
+        "value": 28.9
+    },
+    {
+        "district": "Supiori",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9427,
+        "year": 2013,
+        "value": 35.7736866065886
+    },
+    {
+        "district": "Mamberamo Raya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9428,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Mamberamo Raya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9428,
+        "year": 2010,
+        "value": 28.21
+    },
+    {
+        "district": "Mamberamo Raya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9428,
+        "year": 2013,
+        "value": 27.4434993038622
+    },
+    {
+        "district": "Nduga",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9429,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Nduga",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9429,
+        "year": 2010,
+        "value": 27.44
+    },
+    {
+        "district": "Nduga",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9429,
+        "year": 2013,
+        "value": 56.5537650893308
+    },
+    {
+        "district": "Lanny Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9430,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Lanny Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9430,
+        "year": 2010,
+        "value": 33.84
+    },
+    {
+        "district": "Lanny Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9430,
+        "year": 2013,
+        "value": 60.890124326703
+    },
+    {
+        "district": "Mamberano Tengah",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9431,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Mamberano Tengah",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9431,
+        "year": 2010,
+        "value": 25.15
+    },
+    {
+        "district": "Mamberano Tengah",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9431,
+        "year": 2013,
+        "value": 51.0889675770869
+    },
+    {
+        "district": "Yalimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9432,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Yalimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9432,
+        "year": 2010,
+        "value": 29.78
+    },
+    {
+        "district": "Yalimo",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9432,
+        "year": 2013,
+        "value": 41.8691361035564
+    },
+    {
+        "district": "Puncak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9433,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Puncak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9433,
+        "year": 2010,
+        "value": 32.84
+    },
+    {
+        "district": "Puncak",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9433,
+        "year": 2013,
+        "value": 36.741334640539
+    },
+    {
+        "district": "Dogiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9434,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Dogiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9434,
+        "year": 2010,
+        "value": 36.35
+    },
+    {
+        "district": "Dogiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9434,
+        "year": 2013,
+        "value": 66.1221959499848
+    },
+    {
+        "district": "Intan Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9435,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Intan Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9435,
+        "year": 2010,
+        "value": 24.59
+    },
+    {
+        "district": "Intan Jaya",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9435,
+        "year": 2013,
+        "value": 68.948940805572
+    },
+    {
+        "district": "Deiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9436,
+        "year": 2007,
+        "value": null
+    },
+    {
+        "district": "Deiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9436,
+        "year": 2010,
+        "value": 31.21
+    },
+    {
+        "district": "Deiyai",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9436,
+        "year": 2013,
+        "value": 10.4504526847148
+    },
+    {
+        "district": "Kota Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9471,
+        "year": 2007,
+        "value": 27.3
+    },
+    {
+        "district": "Kota Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9471,
+        "year": 2010,
+        "value": 29.97
+    },
+    {
+        "district": "Kota Jayapura",
+        "province": "PAPUA",
+        "indicatorId": "STUN",
+        "districtId": 9471,
+        "year": 2013,
+        "value": 34.7943544129545
+    }
+]

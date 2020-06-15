@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Edit</title>
+    <style>
+     body {
+         color: #777;
+     }
+     .page {
+         width: 800px;
+         margin: 20px auto;
+     }
+     textarea {
+         min-height: 200px;
+     }
+    </style>
+
+    <script type="text/template" id="template-app">
+      <div class="page">
+        <h3>Select story:
+          <select v-model="storyId">
+            <option v-for="id in stories" :value="id">{{id}}</option>
+          </select>
+          <select v-model="lang">
+            <option v-for="lang in langs" :value="lang">{{lang}}</option>
+          </select>
+        </h3>
+
+        <form v-if="story" class="pure-form pure-form-stacked">
+          <fieldset v-for="section in story.sections">
+            <div class="pure-g row-section">
+              <div class="pure-u-1-2">
+                <label>ID</label>
+                <input class="pure-u-23-24" type="text" :value="section.id">
+              </div>
+              <div class="pure-u-1-2">
+                <label>Parent</label>
+                <input class="pure-u-23-24" type="text" :value="section.parent">
+              </div>
+            </div>
+            <div class="pure-g">
+              <div class="pure-u-1-2">
+                <label>Title</label>
+                <input class="pure-u-23-24" type="text" :value="section.title">
+              </div>
+              <div class="pure-u-1-2">
+                <label>URL</label>
+                <input class="pure-u-1" type="text" :value="section.url">
+              </div>
+            </div>
+            <div>
+              <label>Content</label>
+              <textarea class="pure-u-1" :value="section.content">
+              </textarea>
+            </div>
+            <br/>
+          </fieldset>
+        </form>
+        <button class="pure-button pure-button-warning" @click="save">Save</button>
+      </div>
+    </script>
+
+  </head>
+
+  <body>
+    <script src="/public/dist/vendor.js"></script>
+    <script src="/public/dist/editor.js"></script>
+  </body>
+</html>

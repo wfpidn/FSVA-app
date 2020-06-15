@@ -1,0 +1,299 @@
+PRIO
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_71_priority_a/FeatureServer/0
+Kerentanan berdasarkan pada indeks ketahanan pangan komposit
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+Kecamatan dengan prioritas 1
+RGB(232,89,97)
+Kecamatan dengan prioritas 2
+RGB(244,161,167)
+Kecamatan dengan prioritas 3
+RGB(201,224,191)
+Kecamatan dengan prioritas 4
+RGB(148,201,69)
+Kecamatan dengan prioritas 5
+RGB(59,112,59)
+Kecamatan dengan prioritas 6
+
+
+NCPR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_21_ncpr_a/FeatureServer/0
+Rasio konsumsi terhadap produksi
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+Defisit tinggi
+RGB(232,89,97)
+Defisit sedang
+RGB(244,161,167)
+Defisit rendah
+RGB(201,224,191)
+Surplus rendah
+RGB(148,201,69)
+Surplus sedang
+RGB(59,112,59)
+Surplus tinggi
+
+
+RWA
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_31_rwa_a/FeatureServer/0
+Persentase desa yang tidak memiliki akses penghubung jalan atau sarana transportasi air
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 30
+RGB(232,89,97)
+25 - 30
+RGB(244,161,167)
+20 - 25
+RGB(201,224,191)
+15 - 20
+RGB(148,201,69)
+10 - 15
+RGB(59,112,59)
+< 10
+
+
+ELEC
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_32_elec_a/FeatureServer/0
+Persentase rumah tangga yang tidak memiliki akses terhadap listrik
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 50
+RGB(232,89,97)
+40 - 50
+RGB(244,161,167)
+30 - 40
+RGB(201,224,191)
+20 - 30
+RGB(148,201,69)
+10 - 20
+RGB(59,112,59)
+< 10
+
+
+POV
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_33_pov_a/FeatureServer/0
+Persentase penduduk hidup di bawah garis kemiskinan
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 35
+RGB(232,89,97)
+25 - 35
+RGB(244,161,167)
+20 - 25
+RGB(201,224,191)
+15 - 20
+RGB(148,201,69)
+10 - 15
+RGB(59,112,59)
+< 10
+
+
+HLTH
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_41_hlth_a/FeatureServer/0
+Persentase desa dengan jarak > 5 km dari fasilitas kesehatan
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 60
+RGB(232,89,97)
+50 - 60
+RGB(244,161,167)
+40 - 50
+RGB(201,224,191)
+30 - 40
+RGB(148,201,69)
+20 - 30
+RGB(59,112,59)
+< 20
+
+
+CW
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_42_cw_a/FeatureServer/0
+Persentase rumah tangga tanpa akses ke air bersih
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 70
+RGB(232,89,97)
+60 - 70
+RGB(244,161,167)
+50 - 60
+RGB(201,224,191)
+40 - 50
+RGB(148,201,69)
+30 - 40
+RGB(59,112,59)
+< 30
+
+
+ILLI
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_43_illi_a/FeatureServer/0
+Persentase perempuan buta huruf dengan usia 15 tahun ke atas
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 40
+RGB(232,89,97)
+30 - 40
+RGB(244,161,167)
+20 - 30
+RGB(201,224,191)
+10 - 20
+RGB(148,201,69)
+5 - 10
+RGB(59,112,59)
+< 5
+
+
+STUN
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_51_stun_adm2_a/FeatureServer/0
+Prevalensi dari anak di bawah 5 tahun yang memiliki tinggi badan kurang
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+> 40	Prevalensi sangat tinggi
+RGB(232,89,97)
+30 - 40	Prevalensi tinggi
+RGB(148,201,69)
+20 - 30	Prevalensi sedang
+RGB(59,112,59)
+< 20	Prevalensi rendah
+
+
+LIFE
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_52_life_a/FeatureServer/0
+Angka harapan hidup (tahun)
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(110,31,31)
+< 58
+RGB(232,89,97)
+58 - 61
+RGB(244,161,167)
+61 - 64
+RGB(201,224,191)
+64 - 67
+RGB(148,201,69)
+67 - 70
+RGB(59,112,59)
+> 70
+
+
+ND
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_61_natural_disasters_a/FeatureServer/0
+Jumlah kejadian bencana alam
+RGB(204,204,204)
+Tidak ada data bencana
+RGB(255,213,167)
+< 2
+RGB(255,163,128)
+2 - 5
+RGB(227,87,82)
+> 5
+
+
+RV
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_62_enso_signal_a/FeatureServer/0
+Perubahan curah hujan bulanan dengan kenaikan 1 derajat pada suhu permukaan laut (mm/°C)
+RGB(204,204,204)
+Tidak ada perubahan
+RGB(254,255,209)
+-5 - 0
+RGB(255,237,170)
+-10 - -5
+RGB(255,217,131)
+-15 - -10
+RGB(255,177,94)
+-20 - -15
+RGB(255,139,76)
+-30 - -20
+RGB(225,75,53)
+-40 - -30
+RGB(232,17,36)
+-50 - -40
+RGB(194,0,41)
+-70 - -50
+RGB(131,0,38)
+<-70
+
+
+NMR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_63_enso_subdistrict_class_a/FeatureServer/0
+Klasifikasi kecamatan yang mengalami perubahan negatif curah hujan bulanan
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(204,204,204)
+Tidak ada perubahan
+RGB(255,255,212)
+Sangat rendah
+RGB(255,218,143)
+Rendah
+RGB(255,155,44)
+Sedang
+RGB(217,95,13)
+Tinggi
+RGB(153,52,5)
+Sangat tinggi
+
+
+ARPD
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_35_2015_64_drought_production_loss_a/FeatureServer/0
+Rata-rata kehilangan produksi padi akibat kekeringan (ton)
+RGB(214,214,214)
+No data
+RGB(255,203,203)
+< 10
+RGB(239,51,66)
+10 - 150
+
+
+ARPF
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_35_2015_65_flood_production_loss_a/FeatureServer/0
+Rata-rata kehilangan produksi padi akibat banjir (ton)
+RGB(214,214,214)
+Tidak ada data
+RGB(239,51,66)
+0 - 8
+
+
+DF
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_67_deforestation_percent_12years_a/FeatureServer/0
+Laju deforestasi dalam persentase per tahun
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(255,230,218)
+< 0.2
+RGB(255,186,166)
+0.2 - 0.5
+RGB(255,144,120)
+0.5 - 1
+RGB(255,103,78)
+1 - 1.5
+RGB(228,41,46)
+1.5 - 2.5
+RGB(170,13,27)
+> 2.5
+
+
+DFR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_68_deforestation_hectares_12years_a/FeatureServer/0
+Laju deforestasi dalam hektar per tahun
+RGB(255,255,255)
+Tidak ada data / daerah Perkotaan
+RGB(255,230,218)
+< 1000
+RGB(255,186,166)
+1000 - 3000
+RGB(255,144,120)
+3000 - 7500
+RGB(255,103,78)
+7500 - 12000
+RGB(228,41,46)
+12000 - 20000
+RGB(170,13,27)
+> 20000

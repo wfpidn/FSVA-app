@@ -1,0 +1,18 @@
+{
+    "map": {
+        "extent": {
+            "xmin": 129.03,
+            "ymin": -9.0,
+            "xmax": 141.02,
+            "ymax": 0.9
+        }
+    },
+    "modules": [
+        "/pages/map/esri-map",
+        "/pages/map/header",
+        "/pages/map/map-click-error"
+    ],
+    "messages": {
+        "popup.click": "Sub-district trends and profile data are not available for this indicator. Please select another indicator under <strong>Food Availability, Food Access or Food Utilization</strong> to view sub-district trends and profile data."
+    }
+}

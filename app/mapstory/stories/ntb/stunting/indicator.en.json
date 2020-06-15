@@ -1,0 +1,13 @@
+{
+    "indicators": [
+        {
+            "id": "STUN",
+            "label": "Prevalence of Stunting",
+            "range": {
+                "max": 51.7267692348,
+                "min": 26.3319180409
+            },
+            "description": "Percentage of stunted children under 5 years of age"
+        }
+    ]
+}

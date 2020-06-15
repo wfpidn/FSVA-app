@@ -1,0 +1,10 @@
+id,label,description
+NCPR,NCPR,Normative Consumption to Net Per Capita Production Ratio
+POV,Poverty,Population living below the poverty line (%)
+RWA,Road and water access,Villages lacking access to roads that are passable by fourwheeled vehicle or to waterways passable by boat (%)
+ELEC,Electricity,Households without access to electricity (%)
+CW,Clean water,Households without access to clean drinking water at a distance of more than 10 meters from a septic tank (%)
+LIFE,Life expectancy,Life expectancy at birth (years)
+HLTH,Health,Villages with health facilities greater than 5 kilometers away (%)
+ILLI,Female illiteracy,Women and girls over 15 years of age who cannot read or write (%)
+PRIO,District priority,District priority

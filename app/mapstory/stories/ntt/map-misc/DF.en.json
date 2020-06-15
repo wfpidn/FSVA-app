@@ -1,0 +1,36 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_67_deforestation_percent_12years_a/FeatureServer/0"
+    },
+    "title": "Deforestation rate in percent (%) per year",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(255,230,218)",
+            "label": "< 0.2"
+        },
+        {
+            "color": "RGB(255,186,166)",
+            "label": "0.2 - 0.5"
+        },
+        {
+            "color": "RGB(255,144,120)",
+            "label": "0.5 - 1"
+        },
+        {
+            "color": "RGB(255,103,78)",
+            "label": "1 - 1.5"
+        },
+        {
+            "color": "RGB(228,41,46)",
+            "label": "1.5 - 2.5"
+        },
+        {
+            "color": "RGB(170,13,27)",
+            "label": "> 2.5"
+        }
+    ]
+}

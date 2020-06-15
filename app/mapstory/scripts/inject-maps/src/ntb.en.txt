@@ -1,0 +1,317 @@
+PRIO
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_71_priority_a/FeatureServer/0
+Vulnerability based on composite food security index
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+Priority 1 Sub-district
+RGB(232,89,97)
+Priority 2 Sub-district
+RGB(244,161,167)
+Priority 3 Sub-district
+RGB(201,224,191)
+Priority 4 Sub-district
+RGB(148,201,69)
+Priority 5 Sub-district
+RGB(59,112,59)
+Priority 6 Sub-district
+
+
+NCPR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_21_ncpr_a/FeatureServer/0
+Ratio of consumption to production
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+High deficit
+RGB(232,89,97)
+Moderate deficit
+RGB(244,161,167)
+Low deficit
+RGB(201,224,191)
+Low surplus
+RGB(148,201,69)
+Moderate surplus
+RGB(59,112,59)
+High surplus
+
+
+RWA
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_31_rwa_a/FeatureServer/0
+Percentage of village without road or water transportation access
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 30
+RGB(232,89,97)
+25 - 30
+RGB(244,161,167)
+20 - 25
+RGB(201,224,191)
+15 - 20
+RGB(148,201,69)
+10 - 15
+RGB(59,112,59)
+< 10
+
+
+ELEC
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_32_elec_a/FeatureServer/0
+Percentage of household without access to electricity
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 50
+RGB(232,89,97)
+40 - 50
+RGB(244,161,167)
+30 - 40
+RGB(201,224,191)
+20 - 30
+RGB(148,201,69)
+10 - 20
+RGB(59,112,59)
+< 10
+
+
+POV
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_33_pov_a/FeatureServer/0
+Percentage of population living below national poverty line
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 35
+RGB(232,89,97)
+25 - 35
+RGB(244,161,167)
+20 - 25
+RGB(201,224,191)
+15 - 20
+RGB(148,201,69)
+10 - 15
+RGB(59,112,59)
+< 10
+
+
+HLTH
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_41_hlth_a/FeatureServer/0
+Percentage of village with access to health facilities > 5 km
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 60
+RGB(232,89,97)
+50 - 60
+RGB(244,161,167)
+40 - 50
+RGB(201,224,191)
+30 - 40
+RGB(148,201,69)
+20 - 30
+RGB(59,112,59)
+< 20
+
+
+CW
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_42_cw_a/FeatureServer/0
+Percentage of household without access to clean water
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 70
+RGB(232,89,97)
+60 - 70
+RGB(244,161,167)
+50 - 60
+RGB(201,224,191)
+40 - 50
+RGB(148,201,69)
+30 - 40
+RGB(59,112,59)
+< 30
+
+
+ILLI
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_43_illi_a/FeatureServer/0
+Percentage of female illiteracy ages 15 and above
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 40
+RGB(232,89,97)
+30 - 40
+RGB(244,161,167)
+20 - 30
+RGB(201,224,191)
+10 - 20
+RGB(148,201,69)
+5 - 10
+RGB(59,112,59)
+< 5
+
+
+STUN
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_51_stun_adm2_a/FeatureServer/0
+Percentage of stunted children under 5 years of age
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+> 40	Very high prevalence
+RGB(232,89,97)
+30 - 40	High prevalence
+RGB(148,201,69)
+20 - 30	Medium prevalence
+RGB(59,112,59)
+< 20	Low prevalence
+
+
+LIFE
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_52_life_a/FeatureServer/0
+Life expectancy (years)
+RGB(255,255,255)
+No data/Urban area
+RGB(110,31,31)
+< 58
+RGB(232,89,97)
+58 - 61
+RGB(244,161,167)
+61 - 64
+RGB(201,224,191)
+64 - 67
+RGB(148,201,69)
+67 - 70
+RGB(59,112,59)
+> 70
+
+
+ND
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_61_natural_disasters_a/FeatureServer/0
+Number of natural disaster event
+RGB(204,204,204)
+No disaster data
+RGB(255,255,179)
+< 10
+RGB(255,203,92)
+10 - 20
+RGB(252,141,61)
+20 - 30
+RGB(240,59,31)
+30 - 40
+RGB(189,0,38)
+> 40
+
+
+RV
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_62_enso_signal_a/FeatureServer/0
+Change in monthly rainfall (mm/°C)
+RGB(204,204,204)
+No changes
+RGB(254,255,209)
+-5 - 0
+RGB(255,237,170)
+-10 - -5
+RGB(255,217,131)
+-15 - -10
+RGB(255,177,94)
+-20 - -15
+RGB(255,139,76)
+-25 - -20
+RGB(225,75,53)
+-30 - -25
+RGB(232,17,36)
+-35 - -30
+RGB(194,0,41)
+-40 - -35
+RGB(131,0,38)
+< -40
+
+
+NMR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_63_enso_subdistrict_class_a/FeatureServer/0
+Sub-district classification of negative monthly rainfall
+RGB(255,255,255)
+No data/Urban area
+RGB(204,204,204)
+No change
+RGB(255,255,212)
+Very low
+RGB(255,218,143)
+Low
+RGB(255,155,44)
+Moderate
+RGB(217,95,13)
+High
+RGB(153,52,5)
+Very high
+
+
+ARPD
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_64_drought_production_loss_a/FeatureServer/0
+Average rice production loss due to drought (Ton)
+RGB(214,214,214)
+No data
+RGB(255,229,219)
+< 500
+RGB(255,173,153)
+500 - 1000
+RGB(255,101,85)
+1000 - 5000
+RGB(232,42,54)
+5000 - 10000
+RGB(173,0,24)
+> 10000
+
+
+ARPF
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_65_flood_production_loss_a/FeatureServer/0
+Average rice production loss due to flood (Ton)
+RGB(214,214,214)
+No data
+RGB(255,229,219)
+< 50
+RGB(255,173,153)
+50 - 100
+RGB(255,101,85)
+100 - 500
+RGB(232,42,54)
+500 - 1000
+RGB(173,0,24)
+> 1000
+
+
+DF
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_67_deforestation_percent_12years_a/FeatureServer/0
+Deforestation rate in percent (%) per year
+RGB(255,255,255)
+No data/Urban area
+RGB(255,230,218)
+< 0.2
+RGB(255,186,166)
+0.2 - 0.5
+RGB(255,144,120)
+0.5 - 1
+RGB(255,103,78)
+1 - 1.5
+RGB(228,41,46)
+1.5 - 2.5
+RGB(170,13,27)
+> 2.5
+
+
+DFR
+http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_68_deforestation_hectares_12years_a/FeatureServer/0
+Deforestation rate in hectare per year
+RGB(255,255,255)
+No data/Urban area
+RGB(255,230,218)
+< 1000
+RGB(255,186,166)
+1000 - 3000
+RGB(255,144,120)
+3000 - 7500
+RGB(255,103,78)
+7500 - 12000
+RGB(228,41,46)
+12000 - 20000
+RGB(170,13,27)
+> 20000

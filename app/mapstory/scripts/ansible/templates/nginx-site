@@ -1,0 +1,29 @@
+server {
+  listen 80;
+  server_name _;
+  return 404;
+}
+
+server {
+  listen 80;
+  server_name {{fsva_domain}};
+  return 302 http://en.$server_name:$server_port$request_uri;
+}
+
+server {
+  listen 80;
+  server_name en.{{fsva_domain}};
+  location / {
+    proxy_pass http://127.0.0.1:3005;
+    proxy_set_header fsva_lang en;
+  }
+}
+
+server {
+  listen 80;
+  server_name id.{{fsva_domain}};
+  location / {
+    proxy_pass http://127.0.0.1:3005;
+    proxy_set_header fsva_lang id;
+  }
+}

@@ -1,0 +1,291 @@
+{
+    "title": "Indonesia - Food Security and Vulnerability Atlas 2015",
+    "defaultSectionId": 1,
+    "sections": [
+        {
+            "url": "/pages/static/image/index.html",
+            "id": 0,
+            "title": "Introduction to the Interactive FSVA",
+            "params": {
+                "background": "#D9CFB1",
+                "image": "/stories/main/intro.jpg"
+            },
+            "parent": null,
+            "content": "<p>Since 2003, the Government of Indonesia, in collaboration with WFP, has enhanced its understanding of the state of food security in Indonesia&ndash; including at the local level &ndash; through the development of food security and vulnerability atlases (FSVAs). These atlases are valuable tools for enhancing the targeting of programmes and the design of policies that aim to improve food and nutrition security throughout the nation. The 2015 FSVA is the latest product of this joint collaboration.</p>\n\n<p>The FSVA includes 13 indicators based on a review of data availability at the district level and their ability to measure various aspects of food and nutrition security. The FSVA divides these indicators into two sets: <strong>chronic</strong> food and nutrition insecurity and <strong>transitory</strong> food insecurity. Within chronic, indicators measure <strong>food availability, food access, </strong>and<strong> food utilization</strong>. The transitory indicators describe <strong>climatic and environmental factors</strong> that affect food insecurity<strong> </strong>from an availability and access perspective. The nine indicators that relate to chronic food insecurity are combined into a single composite indicator to describe the overall <strong>district food security classification.</strong></p>\n\n<p>The food and nutrition security conceptual framework shown here forms the basis for the analysis in the FSVA. The framework is based on three pillars of food security &ndash; availability, access and utilization &ndash; and integrates important nutrition and vulnerability considerations. A fourth dimension or pillar of food security refers to stability. This is reflected in the FSVA in terms of chronic versus transitory or acute food insecurity.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 1,
+            "title": "Overall District Food Security Classification",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/PRIO.json"
+                ]
+            },
+            "parent": null,
+            "content": "<p>In addition to analysis of individual indicators, a composite indicator reflecting the overall food and nutrition security situation was constructed and used to classify districts into six priority groups. Districts in priority groups 1 and 2 are relatively more vulnerable to food and nutrition insecurity; those in priority groups 3 and 4 are moderately vulnerable; and those in priority groups 5 and 6 are less vulnerable or food secure. It is important to note that as a result of diversity within districts, not all people in top-priority districts (groups 1 and 2) are food-insecure, while not all of those in low-priority districts (groups 5 and 6) are food-secure.</p>\n\n<p>The methodology for ranking and categorizing districts into priority groups was updated for this 2015 atlas by including cluster analysis and discriminant analysis in addition to the principal component analysis method used in previous atlases. Principal component analysis is used to determine the weight of each individual indicator within the composite index, while cluster and discriminant analyses are used to classify each district into one of six priority groups. The combination of these three methodologies increases the objectivity, robustness and reliability of results.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 2,
+            "title": "Food Availability",
+            "params": {
+                "sectionId": 3,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Food availability is the physical presence of sufficient quantities of food, including nutrient-rich food, in the area concerned, from all forms of domestic production, government stocks and external sources such as commercial imports and food aid. As most domestic and imported food is supplied through markets before reaching households, market infrastructure and distribution and trade systems determine the regional and local availability of food. As an island nation, Indonesia faces significant challenges in ensuring that infrastructure and distribution systems function properly.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 3,
+            "title": "Ratio of consumption to production",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/NCPR.json"
+                ]
+            },
+            "parent": 2,
+            "content": "<p>The single indicator in the FSVA measuring food availability is the ratio of per capita cereal consumption to per capita production. This indicator focuses on the production of selected cereal and tuber crops &ndash; rice, maize, cassava and sweet potatoes in 398 rural districts. These crops were selected because they provide almost 50 percent of the daily calorie intake in the average Indonesian diet, and data on their production are reported regularly at the district level. This ratio indicates the degree to which an area is self-sufficient in cereal and tuber production.&nbsp; While the cereal availability indicator measures whether a district produces sufficient quantities of calorie-rich food, it does not provide information on the local availability of nutrient-rich foods because it does not analyse foods from animal sources, pulses, fruits, vegetables and other nutritious foods produced within the district.&nbsp;&nbsp;</p>\n\n<p>Cereal production in the 398 districts was calculated by computing the average production of rice, maize, cassava and sweet potatoes over the three production years of 2011&ndash;2013. Net average production in cereal equivalents was calculated for each crop using standard conversion factors of one-to-one for rice and maize and three-to-one for cassava and sweet potatoes &ndash; 3 kg of cassava or sweet potatoes is equivalent to 1 kg of rice or maize in terms of calorific value (FSA, 2012). The four components were then added together to calculate total production in cereal equivalent. Net cereal availability per capita was calculated at the district level by dividing the district&rsquo;s total production in cereal equivalent by its estimated population for the middle year of the three-year period, i.e. 2012. Data on trade and imports were not considered because they were not available for the district level. Based on the Indonesian consumption profile, the normative recommended per capita cereal consumption is 300 g per day, which was used to compute the per capita normative consumption to production ratio.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 4,
+            "title": "Food Access",
+            "params": {
+                "sectionId": 5,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Food access relates to a household&rsquo;s ability to obtain sufficient, safe and nutritious food from a combination of sources including own production, stocks, purchases, bartering, gifts, borrowing and food aid. Food may be physically present in a region, but not accessible to certain households because of limited: i) physical access &ndash; market infrastructure, ways of reaching markets, and the functionality of markets; ii) economic access &ndash; the financial capacity to purchase adequate and nutritious food; and/or iii) social access &ndash; the social capital needed to engage in informal support mechanisms such as bartering or borrowing, or the presence of social support programmes.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 5,
+            "title": "Villages without an inter-village road accessible by four-wheeled vehicles or without accessible waterways by boat",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/RWA.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Transport and storage infrastructure is crucial for food and nutrition security: the food supply chain requires well-developed air, water and land infrastructure for the timely and cost-efficient transport of food. As an archipelago spread over 13,400 islands, Indonesia faces significant challenges to ensuring smooth and inexpensive supply chains for its products. The country is working to improve the integration and efficiency of air, land and sea facilities, to ease the movement and trade of a wider range of food items among islands, with minimal losses to spoilage.</p>\n\n<p>The FSVA measures district-level connectivity in terms of the proportion of villages in each district that have access to roads passable by four-wheeled vehicle or to waterways passable by boat throughout the year. This data is derived from the 2014 Village Potential Survey (PODES).</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 6,
+            "title": "Access to electricity",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/ELEC.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Households&rsquo; access to electricity serves as a proxy indicator of economic welfare and increased livelihood opportunities within the region, and improved living conditions at the household level. The indicator used in the FSVA is the percentage of households lacking access to electricity from State and/or non-State sources such as generators using 2013 National Socio-Economic Survey (SUSENAS). 96.5 percent of households in Indonesia had access to electricity in 2013, up from 91.5 percent in 2007.&nbsp;However, strong regional disparities persist, with less than one percent of households in DKI Jakarta lacking access to electricity, compared with 54.4 percent in Papua Barat.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 7,
+            "title": "Population living below the poverty line",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/POV.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Using the most current SUSENAS data available, the poverty line was defined as the Indonesian rupiah value of the monthly per capita expenditure required to provide a minimum level of food and non-food basic consumption. The national poverty line was defined as Rp 308,826 per capita per month in urban areas and Rp 275,779 in rural areas in 2013. The FSVA examined the percent of the population by district which are living below the national poverty line.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 8,
+            "title": "Food Utilization",
+            "params": {
+                "sectionId": 9,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Food utilization refers to: i) a household&rsquo;s use of the food to which it has access; and ii) an individual&rsquo;s ability to absorb nutrients &ndash; the conversion efficiency of food by the body.&nbsp;Food utilization depends on: i) the facilities available for food storage and processing; ii) knowledge and practices in food preparation and the feeding of young children and other dependent individuals &ndash; including sick and elderly people &ndash; which may be impaired by the low education of mothers and other caregivers, cultural beliefs and taboos; iii) food-sharing practices within the household; and iv) the health status of the individual, which may be impaired by disease, poor hygiene, water and sanitation and lack of access to health facilities and health care.</p>\n\n<p>The proxy indicators used to analyse food utilization in the FSVA were selected due to their impact on the utilization of nutrients and, ultimately, on the health and nutrition outcomes of individuals, and because of data availability. &nbsp;</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 9,
+            "title": "Villages with health facilities more than 5 kilometers away",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/HLTH.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Using data from the 2014 Village Potential Survey (PODES), the FSVA examined for each district, the percentage of villages that are located more than five kilometres away from the nearest health facility. These health facilities include: hospitals, clinics, community health centres, etc.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 10,
+            "title": "Households without access to clean drinking water at a distance of more than 10 meters from a septic tank",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/CW.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Access to clean and safe drinking-water is defined as an improved water source &ndash; a protected well, borehole or spring, tap water or rainwater &ndash; at least 10 meters from the nearest septic tank.&nbsp; This indicator, derived from 2013 SUSENAS analyses for each district, the percent of households lacking access to clean water.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 11,
+            "title": "Illiteracy rate among female ages 15 and above",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/ILLI.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>The literacy level of women, especially the mothers and caregivers of young children, is well known as an important determinant of food utilization and hence influences the overall health and nutrition status of household members. Studies from around the world have shown that in developing countries, a mother&rsquo;s level of education and awareness of nutrition are closely correlated with the nutritional situation of her children. The FSVA uses the percent of women and girls over 15 years of age who cannot read or write from the 2013 SUSENAS to describe this aspect of caregiving and food utilization.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 12,
+            "title": "Prevalence of stunting among children under five years of age",
+            "params": {
+                "config": [
+                    "/stories/main/stunting/STUN.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Chronic malnutrition (stunting) is associated with poor foetal growth and reduced growth during the first two years of life, mainly caused by a combination of inadequate nutrient intake, high exposure to disease, and poor caring practices. As well as a higher risk of child mortality, chronic malnutrition can lead to irreversible outcomes including reduced physical and mental development, which can in turn affect school performance and attendance, future income earning capacity and, therefore, the potential to rise out of poverty. In addition, undernourished children who put on weight rapidly at later stages of childhood and adolescence are more likely to develop chronic diseases &ndash; obesity, diabetes, hypertension and coronary heart disease &ndash; related to malnutrition.</p>\n\n<p>Using the 2013 Basic Health Research Survey (RISKESDAS), the FSVA examined at province level, the percentage of children under 5 who are more than -2 standard deviations from their age and gender-specific reference heights using the WHO. While other indicators make use of district level data, stunting in the FSVA is reported at provincial level due to the sensitivity of district level data.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 13,
+            "title": "Life expectancy",
+            "params": {
+                "config": [
+                    "/stories/main/map/_base.json",
+                    "/stories/main/map/LIFE.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Life expectancy at birth is an outcome of health and nutrition status. Using data from the 2013 SUSENAS, the FSVA uses the average numbers of years that a newborn infant is expected to live if current mortality patterns prevail throughout her/his life as another proxy of food utilization.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 14,
+            "title": "Climatic and Environmental Factors Affecting Food Security",
+            "params": {
+                "sectionId": 15,
+                "storyId": "main"
+            },
+            "parent": null,
+            "content": "<p>Natural disasters and other shocks can have negative impacts on food and nutrition security, temporarily and/or for extended periods. Inability to meet food needs for a temporary period is known as transient food insecurity, which can be triggered by a sudden natural or technological disaster, a slow-onset disaster, price or market shocks, health epidemics or civil conflict, among other causes.</p>\n\n<p>Transient food insecurity is often divided into two subcategories: cyclical food insecurity, when a regular pattern of food insecurity is repeated every year, for example during the lean season in the period just before harvest; and temporary food insecurity, which is the result of a short-term, exogenous shock such as a drought or flood. Civil conflict is also a temporary shock, but its negative impact on food security often continues over an extended period. Transient food insecurity can affect chronically food-insecure households by pushing them into more severe or acute food insecurity as the result of the temporary shock; it can also affect households that are usually food-secure.</p>\n\n<p>This chapter analyses food insecurity from a climatic and environmental perspective. Climatic and environmental factors and people&rsquo;s ability to cope with shocks underscore the ability of a country or region to achieve and maintain food and nutrition security. This perspective of food and nutrition security focuses on the impact of various natural disasters and environmental degradation on food availability and access. Deforestation, rainfall variability and the extent of the area affected by floods and landslides are some of the indicators used to explain transient food insecurity in Indonesia.</p>\n\n<p>To conduct a comprehensive analysis of climatic conditions affecting transient food insecurity, four key factors were examined for the 2014 FSVA: i) a summary of natural disasters experienced at district level, ii) an estimation of rice production loss due to floods or drought, iii) the rate of deforestation and iv) the strength of the El Ni&ntilde;o/Southern Oscillation (ENSO) which drives rainfall variability.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 15,
+            "title": "Number of natural disasters with potential impact on food access and utilization from 2000 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ND.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>According to the National Disaster Management Agency (BNPB), more than 12,700 natural disaster events occurred in Indonesia during the period 2000&ndash;2013, causing more than 183,100 deaths. This list documents events of any magnitude and includes typhoons, floods, droughts, volcanic eruptions, earthquakes, tsunamis, landslides, abrasions, epidemics, pest infestations and forest fires. Over the same period, the most frequent natural disasters were floods, typhoons and landslides, while earthquakes and tsunamis were the most fatal, accounting for more than 167,700 deaths.</p>\n\n<p>The map illustrates the number of natural disasters through a different lens by focusing only on disasters that relate to climatic factors. Disasters related to volcanic and seismic activity (tsunami and earthquakes) are not included. &nbsp;This map therefore illustrates the districts most affected by climate, including some which may increase as more extreme climate events become more common. &nbsp;For example, provinces in Java by far reported the highest number of typhoons, floods, landslides and droughts between 2000 and 2013. &nbsp;However, it should be noted that provinces in Java may also report data more frequently in general in comparison to other provinces.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 16,
+            "title": "Rainfall variability",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/RV.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Climate variability directly influences many aspects of food and nutrition security, particularly food availability and access. Variation in rainfall is a common element of many natural disasters &ndash; droughts, floods, typhoons and tsunamis &ndash; and is influenced by global, regional and/or local factors. Global climate factors include El Ni&ntilde;o, La Ni&ntilde;a and the dipole mode; regional factors include monsoon circulation, the Madden-Julian oscillation and fluctuations in the surface temperature of the Indonesian Sea; and local factors can include elevation, island position, the circulation of land and sea breezes, and land cover.</p>\n\n<p>This maps show the change in monthly rainfall for a one degree Celsius change in sea surface temperature (SST). Areas in red exhibit a very high negative change in rainfall while areas in green exhibit a very high positive change in rainfall. &nbsp;Each square in the grid depicts a 50 km square.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 17,
+            "title": "District classification of negative monthly rainfall change based on strength of ENSO signal",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/NMR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>This map is similar to the previous, but classifies districts based on the average decrease in monthly rainfall associated with a change in SST. Districts in dark red have the largest negative change in rainfall associated with a rise in SST. &nbsp;These districts would require monitoring of the food security situation, particularly in relation to food production during El Nino years. &nbsp;Rainfall variation is likely to be detrimental to sustainable agriculture unless water storage and irrigation systems are improved.</p>\n"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 18,
+            "title": "Average rice production loss due to drought from 1990 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ARPD.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>The production and productivity of food crops are influenced by climate and weather conditions. A damaged area is defined as an area where crop production has declined as a result of natural disasters (floods, droughts) and/or pest infestations.&nbsp; As the impact of rainfall variability is a large determinant of crop loss in Indonesia, further analysis of these climate factors on rice was conducted. &nbsp;Using data from the Ministry of Agriculture, this map shows average annual rice production loss due to drought from 1990 &ndash; 2013 in terms of tons lost. &nbsp;Areas in dark red experienced a heavy loss of more than 20,000 tonnes on average per year in this period. &nbsp;</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 19,
+            "title": "Average rice production loss due to flood from 1990 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/ARPF.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Similar to the previous, this map also examines production loss using data from the Ministry of Agriculture, but specifically the average annual rice production loss due to floods from 1990 &ndash; 2013 in terms of tons lost. &nbsp;Again, areas in dark red faced the heaviest losses at more than 20,000 tonnes on average per year.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 20,
+            "title": "Deforestation",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/DF.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Indonesia&rsquo;s forests play a central role in the livelihoods and food and nutrition security of a large proportion of the national population, especially in central and southern parts of Sumatra, Kalimantan and Papua. Non-timber forest products &ndash; wild animals, plants, roots, etc. &ndash; contribute significantly to local diets, providing essential nutrients as well as serving as an important source of food during the lean season or when access to other food sources is limited.&nbsp;&nbsp;</p>\n\n<p>Deforestation data were derived from analysis of Landsat satellite imagery at 30-meter spatial resolution for 2000&ndash;2013, conducted by the University of Maryland. This map examines annual rates of forest loss from 2000 to 2013. Areas in dark red represent increases in deforestation rates of at least 2.5 percent per year.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 21,
+            "title": "Deforestation rate from 2000 \u2013 2013",
+            "params": {
+                "config": [
+                    "/stories/main/map-misc/_base.json",
+                    "/stories/main/map-misc/DFR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>As in the previous map, data was derived from analysis of Landsat satellite imagery at 30-meter spatial resolution for 2000&ndash;2013. This map illustrates average forest losses in terms of hectares per year from 2000 to 2013. Districts in dark red lost more than 20,000 ha/year over the 13 year period.</p>"
+        },
+        {
+            "url": "/pages/static/pdf/index.html",
+            "id": 22,
+            "title": "Download FSVA report",
+            "params": {
+                "configPath": "/stories/main/pdf.json"
+            },
+            "parent": null,
+            "content": "<p>The full version of the FSVA report and a brief advocacy version of the FSVA are available for download via the links below</p>\n\n<p><strong>Full FSVA report:</strong></p>\n\n<ul><li>\n<a target='_blank' href='/public/attachments/fsva_full_id.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> Bahasa Indonesia</a></li><li>\n<a target='_blank' href='/public/attachments/fsva_full_en.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> English</a></li></ul>\n\n<p><strong>Brief advocacy version:</strong></p>\n\n<ul><li>\n<a target='_blank' href='/public/attachments/fsva_adv_id.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> Bahasa Indonesia</a></li><li>\n<a target='_blank' href='/public/attachments/fsva_adv_en.pdf'>\n<img class='icon' src='/public/img/pdf.png'/> English</a></li></ul>"
+        }
+    ]
+}

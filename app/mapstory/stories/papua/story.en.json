@@ -1,0 +1,226 @@
+{
+    "title": "Indonesia - Food Security and Vulnerability Atlas 2015",
+    "defaultSectionId": 1,
+    "sections": [
+        {
+            "url": "/pages/static/image/index.html",
+            "id": 0,
+            "title": "Introduction to the Interactive Papua FSVA",
+            "params": {
+                "background": "#D9CFB1",
+                "image": "/stories/papua/intro.jpg"
+            },
+            "parent": null,
+            "content": "<p>Since 2003, the Government of Indonesia, in collaboration with WFP, has enhanced its understanding of the state of food security in Indonesia&ndash; including at the local level &ndash; through the development of food security and vulnerability atlases (FSVAs). The national FSVA was published in 2005, 2009 and 2015 containing analysis down at district level. To obtain a finer resolution of the food security situation in the province, down to the sub-district, the Food Security Office (FSO) of Papua, working together with WFP, developed the comprehensive geographic profile of food and nutrition security across province through the development of Papua FSVA. The 2015 Papua FSVA covers 156 sub-districts in 11 pilot rural districts. The FSVA provides data and information for policy-makers in determining vulnerable areas and formulating recommendations for improving food and nutrition security at the provincial, district, and sub-district level.</p>\n<p>The FSVA includes 12 indicators based on a review of data availability at the sub-district level and their ability to measure various aspects of food and nutrition security. The FSVA divides these indicators into two sets: <strong>chronic</strong> food and nutrition insecurity and <strong>transitory</strong> food insecurity. Within chronic, indicators measure <strong>food availability, food access, </strong>and<strong> food utilization</strong>. The transitory indicators describe <strong>climatic and environmental factors</strong> that affect food insecurity<strong> </strong>from an availability and access perspective. The nine indicators that relate to chronic food insecurity are combined into a single composite indicator to describe the overall <strong>sub-district food security classification.</strong></p>\n<p>Some of the chronic food and nutrition insecurity indicators used in the Papua FSVA are derived using a method called Small Area Estimation (SAE). SAE is a process by which an esimate of an indicator can be generated at a lower spatial resolution (i.e. sub-district) by building a statistical model using survey data and applying the model to a common set of variables collected at a lower level, specifically using census data. The survey and census data used in this SAE model are the 2013 National Socio-Economic Survey (SUSENAS), PODES 2014 and the 2010 census.</p>\n<p>The food and nutrition security conceptual framework shown here forms the basis for the analysis in the FSVA. The framework is based on three pillars of food security &ndash; availability, access and utilization. Stability is considered a fourth dimension or pillar of food security and is reflected in the FSVA in terms of chronic versus transitory (or acute) food insecurity.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 1,
+            "title": "Overall Sub-district Food Security Classification",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/PRIO.json"
+                ]
+            },
+            "parent": null,
+            "content": "<p>In addition to analysis of individual indicators, a composite indicator reflecting the overall food and nutrition security situation was constructed to classify sub-districts into six priority groups. Sub-districts in priority 1 are the most vulnerable to food insecurity while those in priority 6 are the least vulnerable to food insecurity. Generally, sub-districts in priority 1, 2 and 3 are described as food insecure while sub-districts in priority 4, 5 and 6 are described as food secure.</p>\n<p>To create classifications of sub-district&rsquo;s overall food security status, all 9 indicators were assigned weights and used to calculate an overall score. Details on the methodology can be found in the full FSVA report.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 2,
+            "title": "Food Availability",
+            "params": {
+                "sectionId": 3,
+                "storyId": "papua"
+            },
+            "parent": null,
+            "content": "<p>Food availability is the physical presence of sufficient quantities of food, including nutrient-rich food, in the area concerned. This includes all forms of domestic production, government stocks and external sources such as commercial imports and food aid. As most domestic and imported food is supplied through markets before reaching households, market infrastructure and distribution and trade systems determine the regional and local availability of food.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 3,
+            "title": "Ratio of consumption to production",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/NCPR.json"
+                ]
+            },
+            "parent": 2,
+            "content": "<p>The single indicator in the FSVA measuring food availability is the ratio of per capita cereal consumption to per capita production. This indicator focuses on the production of selected cereal and tuber crops &ndash; rice, maize, cassava and sweet potatoes in each of the 156 sub-districts in 11 rural districts. These crops were selected as they provide almost 50 percent of the daily calorie intake in the average Indonesian diet, and data on their production are reported regularly at the sub-district level. This ratio indicates the degree to which an area is self-sufficient in cereal and tuber production.&nbsp;While the cereal availability indicator measures whether a sub-district produces sufficient quantities of calorie-rich food for the local population, it does not provide information on the availability of nutrient-rich foods from fruits, vegetables, and protein sources.&nbsp;It also does not consider the amount of food imported into the sub-district, nor the amount of food exported out of the sub-district as this data is not readily available.&nbsp;</p>\n<p>Local production of cereals is limited with 76% of sub districts having a cereal deficit. Most of these sub-districts are located in highland areas and islands with limited agricultural land available and poor road access. A major exception is Merauke district, the main rice production center in Papua. However, poor transportation infrastructure limits the efficiency of moving rice from Merauke to the rest of Papua. For further information on this indicator, refer to Chapter 2 of the FSVA report.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 4,
+            "title": "Food Access",
+            "params": {
+                "sectionId": 5,
+                "storyId": "papua"
+            },
+            "parent": null,
+            "content": "<p>Food access relates to a household&rsquo;s ability to obtain sufficient, safe and nutritious food from a combination of sources including own production, stocks, purchases, bartering, gifts, borrowing and food aid. While food may be physically present in a region, it may not be accessible to households because of limited: i) physical access &ndash; market infrastructure, market accessibility, and the functionality of markets; ii) economic access &ndash; the financial ability of a household to purchase adequate and nutritious food; and/or iii) social access &ndash; the social capital needed to engage in informal support mechanisms such as bartering or borrowing, or the presence of social protection programmes.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 5,
+            "title": "Villages without inter-village road accessible by four-wheeled vehicles or without accessible waterways by boat",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/RWA.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Transport and storage infrastructure is crucial for food and nutrition security. The FSVA measures connectivity in terms of the proportion of villages in each sub-district that have access to roads passable by four-wheeled vehicle or to waterways passable by boat throughout the year. This data is derived from the 2014 Village Potential Survey (PODES).</p>\n<p>Across the entire province, 57% of villages lack access via roads and waterways. Within the 11 pilot districts, 26% of sub districts &ndash; mostly in Boven Digoel, Merauke, Kepulau Yapen and Jayawijaya districts &ndash; lack access to transportation.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 6,
+            "title": "Access to electricity",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/ELEC.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>Household access to electricity serves as a proxy indicator of economic welfare, improved living conditions, and increased livelihood opportunities within the region. The indicator used in the FSVA is the percentage of households in each sub-district lacking access to electricity from State and/or non-State sources such as generators. Using the 2013 National Socio-Economic Survey (SUSENAS), Census 2010 and PODES 2014 data, it is estimated that only three percent of households in Papua have limited access to electricity.</p>\n<p>In 20 sub districts included in the FSVA (13%), more than 40% of households lack access to electricity. In the province as a whole, access to electricity is very low, with more than half of the population (54%) lacking access to electricity.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 7,
+            "title": "Population living below poverty line",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/POV.json"
+                ]
+            },
+            "parent": 4,
+            "content": "<p>The poverty line is defined as the value of monthly per capita expenditure required to provide a minimum level of basic food and non-food consumption. Poverty, though decreasing over time, is extremely high in Papua at 28.2% in 2015 &ndash; the highest rate for all provinces in Indonesia. There were nearly one million (898.2 thousand) Papuans living below the poverty line in 2015.</p>\n<p>In 2013, the provincial poverty line for Papua was defined as Rp 387,789 per capita per month in urban areas and Rp 322,079 in rural areas. For classification in the FSVA, the percentage of households living below the poverty line in each sub-district was estimated through small area estimation using SUSENAS 2013, Census 2010 and PODES 2014 data.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 8,
+            "title": "Food Utilization",
+            "params": {
+                "sectionId": 9,
+                "storyId": "papua"
+            },
+            "parent": null,
+            "content": "<p>Food utilization refers to a household&rsquo;s use of the food to which it has access and an individual&rsquo;s ability to absorb nutrients.&nbsp;Food utilization depends on: i) the facilities available for food storage and processing; ii) knowledge and practices in food preparation, which may be impaired by low levels of education of mothers and other caregivers, their cultural beliefs and taboos; iii) food-sharing practices within the household; and iv) the health status of the individual, which may be weakened by disease, poor hygiene, lack of access to clean water, inadequate sanitation facilities, and lack of access to health facilities and health care.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 9,
+            "title": "Village with access to health facilities more than 5 kilometers",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/HLTH.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Using data from the 2014 Village Potential Survey (PODES), the FSVA examined the percentage of villages that are located more than five kilometres away the nearest health facility for each sub-district. These health facilities include: hospitals, clinics, community health centres, etc. In 2014, only 63% villages in Papua had access to a health facility within 5 km.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 10,
+            "title": "Household without access to clean water by considering the distance more than 10 m from septic tank that are safe for drinking water",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/CW.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Access to clean and safe drinking-water is defined as an improved water source &ndash; a protected well, borehole or spring, tap water or rainwater &ndash; at least 10 meters from the nearest septic tank.&nbsp; Access to improved sanitation and clean drinking water is an important factor in preventing disease and illness which negatively impact the body&rsquo;s ability to absorb nutrients. Access to improved sanitation facilities, and clean and safe drinking water is a significant issue in Papua. Based on RISKESDAS 2013 data, 37 percent of households in Papua do not have access to clean water and only 30 percent had access to improved sanitation.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 11,
+            "title": "Illiteracy rate: female ages 15 and above",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/ILLI.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>The literacy level of women, especially mothers and caregivers of young children, is an important determinant of food utilization and influences the overall health and nutrition status of household members. Studies have shown that in developing countries, a mother&rsquo;s level of education and awareness of nutrition are closely correlated with the nutritional situation of her children. In 2013, 11.31 percent of females above 15 years old were illiterate in Papua Province. The FSVA uses small area estimation to estimate the percent of women and girls over 15 years of age who cannot read or write in each sub-district.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 12,
+            "title": "Prevalence of stunting among children under five years of age",
+            "params": {
+                "config": [
+                    "/stories/papua/stunting/STUN.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Chronic malnutrition is associated with poor foetal growth and reduced growth during the first two years of life, mainly caused by a combination of inadequate nutrient intake, high exposure to disease, and poor care practices. As well as a higher risk of child mortality, chronic malnutrition can lead to irreversible outcomes including reduced physical and mental development, which can in turn affect school performance and attendance, future income earning capacity and, therefore, the potential to rise out of poverty. In addition, undernourished children who put on weight rapidly at later stages of childhood and adolescence are more likely to develop chronic diseases &ndash; obesity, diabetes, hypertension and coronary heart disease &ndash; related to malnutrition.</p>\n<p>Chronic malnutrition, measured by stunting &ndash; low height for age &ndash; is a major issue in Indonesia and in Papua. The prevalence of stunted growth in children under 5 years of age has increased significantly - from 36.80% in 2007 to 40.08% in 2013, which is considered as very high prevalence according to WHO classifications.</p>\n<p>Using 2013 Basic Health Research Survey (RISKESDAS), the FSVA examined at district level, the percentage of children under 5 who are more than -2 standard deviations from their age and gender-specific reference heights using the WHO. While other indicators make use of sub-district level data, stunting in the Papua FSVA is reported at district level due to the sensitivity of estimates of stunting.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 13,
+            "title": "Life expectancy",
+            "params": {
+                "config": [
+                    "/stories/papua/map/_base.json",
+                    "/stories/papua/map/LIFE.json"
+                ]
+            },
+            "parent": 8,
+            "content": "<p>Life expectancy at birth is an outcome of health and nutrition status. The FSVA uses the average numbers of years that a newborn infant in the sub-district level is expected to live if current mortality patterns prevail throughout her/his life as another proxy of food utilization. In 2013, the average life expectancy in Papua Province was 69.13 years old. The highest life expectancy (70.88 years) was found in Timika district while the shortest was found in Merauke (63.85 years).</p>\n<p>Data from SUSENAS 2013, Census 2010 and PODES 2014, were used to estimate life expectancy at sub-district level using small area estimation.</p>"
+        },
+        {
+            "url": "/pages/static/jumper/index.html",
+            "id": 14,
+            "title": "Climatic and Environmental Factors Affecting Food Security",
+            "params": {
+                "sectionId": 16,
+                "storyId": "papua"
+            },
+            "parent": null,
+            "content": "<p>Natural disasters and other shocks can have negative impacts on food and nutrition security, temporarily and/or for extended periods. Inability to meet food needs for a temporary period is known as transient food insecurity, which can be triggered by a sudden natural or technological disaster, a slow-onset disaster, price or market shocks, health epidemics or civil conflict, among other causes.</p>\n<p>Transient food insecurity is often divided into two subcategories: cyclical food insecurity, when a regular pattern of food insecurity is repeated every year, for example during the lean season in the period just before harvest; and temporary food insecurity, which is the result of a short-term, exogenous shock such as a drought or flood. Transient food insecurity can affect chronically food-insecure households by pushing them into more severe or acute food insecurity as the result of the temporary shock. Transient food insecurity can also push households who are marginally food secure into a state of food insecurity.</p>\n<p>To conduct a comprehensive analysis of climatic conditions affecting transient food insecurity, three key factors were examined for the 2015 Paua FSVA: i) a summary of natural disasters experienced at district level, ii) an estimation of rice production loss due to floods or drought and, and iii) the strength of the predicted effect of El Ni&ntilde;o/Southern Oscillation (ENSO) patterns on rainfall in Papua.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 16,
+            "title": "Rainfall variability",
+            "params": {
+                "config": [
+                    "/stories/papua/map-misc/_base.json",
+                    "/stories/papua/map-misc/RV.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>Climate variability directly influences many aspects of food and nutrition security, particularly food availability and access. Variation in rainfall is a common element of many natural disasters &ndash; droughts, floods, typhoons and tsunamis &ndash; and is influenced by global, regional and/or local factors. Global climate factors include El Ni&ntilde;o, La Ni&ntilde;a and the dipole mode; regional factors include monsoon circulation, the Madden-Julian oscillation and fluctuations in the surface temperature of the Indonesian Sea; and local factors can include elevation, island position, the circulation of land and sea breezes, and land cover.</p>\n<p>This maps shows the changes in monthly rainfall likely to result from a one-degree Celsius increase in sea surface temperature (SST) in the equatorial Pacific Ocean in the Ni&ntilde;o 3.4 region. Areas in red exhibit very high negative change in rainfall, whereas those in yellow exhibit very low negative changes. Each square in the grid represents a 5.6 x 5.6 km square. As shown here, Merauke and Asmat are particularly at risk for reduced rainfall.</p>"
+        },
+        {
+            "url": "/pages/map/index.html",
+            "id": 17,
+            "title": "Sub-district classification of negative monthly rainfall change based on strength of ENSO signal",
+            "params": {
+                "config": [
+                    "/stories/papua/map-misc/_base.json",
+                    "/stories/papua/map-misc/NMR.json"
+                ]
+            },
+            "parent": 14,
+            "content": "<p>This map is similar to the previous, but classifies sub-districts based on the average decrease in monthly rainfall associated with a change in SST in the equatorial Pacific Ocean. Sub-districts with dark red have the largest negative changes in rainfall associated with a rise in SST. These sub-districts are located in Merauke and Asmat and require monitoring of their food security situation, particularly food production and income loss during El Nino years.</p>"
+        },
+        {
+            "url": "/pages/static/pdf/index.html",
+            "id": 22,
+            "title": "Download Papua FSVA report",
+            "params": {
+                "configPath": "/stories/papua/pdf.json"
+            },
+            "parent": null,
+            "content": "\n    <p>The full version of the Papua FSVA report is available for download via the links below</p>\n    <ul>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/fsva_full_papua_id.pdf'>\n        <span class='icon-pdf'></span>\n        Bahasa Indonesia\n      </a>\n    </li>\n    \n    \n    </ul>\n    <p>Brief Advocacy version:</p>\n    <ul>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Sarmi_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Sarmi_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Nabire_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Nabire_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Biak_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Biak_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Jayapura_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Jayapura_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Waropen_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Waropen_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Province%20Papua_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Province Papua_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Keerom_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Keerom_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Merauke_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Merauke_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20BovenDigoel_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - BovenDigoel_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Kep%20Yapen_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Kep Yapen_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Jayawijaya_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Jayawijaya_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    <li>\n      <a target='_blank' href='/public/attachments/adv/papua/Advocacy%20tool%20FSVA%20Papua%20-%20Mimika_11Feb.pdf'>\n        <span class='icon-pdf'></span>\n        <span>Advocacy tool FSVA Papua - Mimika_11Feb.pdf</span>\n      </a>\n    </li>\n    \n    </ul>\n    \n    "
+        }
+    ]
+}

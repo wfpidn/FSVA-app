@@ -1,0 +1,95 @@
+---
+
+# prepare server and environment
+- hosts: all
+  tasks:
+    - name: create fsva user
+      user: name=fsva
+
+    - name: update apt
+      apt: update_cache=yes
+
+    - name: install curl
+      apt: name=curl
+
+    - name: add nodejs repo
+      command: bash -c '( curl -sL https://deb.nodesource.com/setup_5.x | bash - ) && touch /root/.nodesource-added' creates=/root/.nodesource-added
+
+    - name: install packages
+      apt: name={{item}}
+      with_items:
+        - git
+        - nginx
+        - nodejs
+        - sshpass
+
+# digital ocean specific
+- hosts: all
+  tasks:
+    - name: add swapfile
+      shell: >-
+        fallocate -l 2G /swapfile &&
+        chmod 600 /swapfile &&
+        mkswap /swapfile &&
+        swapon /swapfile &&
+        echo '/swapfile   none    swap    sw    0   0' >> /etc/fstab
+      args:
+        creates: /swapfile
+
+# install the app
+- hosts: all
+  become: yes
+  become_user: fsva
+  vars_prompt:
+    - name: git_password
+      prompt: what is the git password?
+  tasks:
+    - name: create app dir
+      file: path=~/app state=directory
+
+    - name: know the repo host
+      known_hosts: name="128.199.221.23" key="128.199.221.23 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJw81tWorbNPVbdRZH94Dsr7UwejXecPtpIIh/DkZPFWhTYY23vEKkncHSMHQhi9fl3Gd8ynyYCVYnjR/eVEzHU="
+
+    - name: clone mapstory repo
+      shell: sshpass -p '{{git_password}}' git clone -b {{fsva_branch}} ssh://reed@128.199.221.23:1922/home/reed/repo/mapstory ~/app/mapstory creates=~/app/mapstory
+
+    - name: install deps and compile resources
+      shell: >-
+        npm i &&
+        npm i bower &&
+        ./node_modules/.bin/webpack &&
+        touch ~/app/mapstory/.npm-ran
+      args:
+        chdir: ~/app/mapstory
+        creates: ~/app/mapstory/.npm-ran
+
+    - name: copy the attachments
+      shell: curl "http://128.199.221.23/dl/{{item}}" > ./{{item}}
+      args:
+        chdir: ~/app/mapstory/public/attachments
+        creates: ~/app/mapstory/public/attachments/{{item}}
+      with_items:
+        - "fsva_adv_en.pdf"
+        - "fsva_adv_id.pdf"
+        - "fsva_full_en.pdf"
+        - "fsva_full_id.pdf"
+
+
+# install the services
+- hosts: all
+  tasks:
+    - name: add service
+      copy: src=./templates/app-mapstory.service dest=/etc/systemd/system/app-mapstory.service
+
+    - name: start webserver
+      service: name=app-mapstory state=restarted enabled=yes
+
+    - name: add nginx site
+      template: src=./templates/nginx-site dest=/etc/nginx/sites-available/fsva
+
+    - name: enable site
+      file: src=/etc/nginx/sites-available/fsva dest=/etc/nginx/sites-enabled/fsva state=link
+
+    - name: restart nginx
+      service: name=nginx state=restarted enabled=yes
+

@@ -1,0 +1,58 @@
+
+@import './vars.scss';
+
+.col-menu {
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    overflow: hidden;
+  }
+
+  .item {
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #222;
+    white-space: nowrap;
+    position: relative;
+    padding: 0.5em 1em;
+    padding-right: 25px;
+    border-bottom: 1px solid #CCC;
+  }
+
+  .item > .chevron {
+    background: url('../img/chevron-right.svg');
+    background-size: cover;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    opacity: 0.4;
+    transition: all 0.5s ease;
+  }
+
+  .item.open > .chevron {
+    transform: rotate(90deg);
+    opacity: 1;
+  }
+
+  ul.level-1 > .item {
+    font-weight: bold;
+  }
+
+  ul.level-2 {
+    background: #FAFAFA;
+  }
+
+  .item.selected {
+    color: #FFF;
+    background: #777;
+  }
+
+}

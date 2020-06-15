@@ -1,0 +1,10 @@
+{
+    "watch": [
+        "index.js",
+        "server/"
+    ],
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "execMap": {}
+}

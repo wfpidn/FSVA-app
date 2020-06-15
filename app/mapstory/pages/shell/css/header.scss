@@ -1,0 +1,43 @@
+
+@import './vars.scss';
+
+.header-menu {
+    background: #2A93FC;
+    color: #FFF;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    height: $header-height;
+    padding: 0 20px;
+    font-family: verdana, sans-serif;
+    line-height: 150%;
+    font-size: 15px;
+}
+
+.header-menu strong {
+    font-size: 17px;
+}
+
+.logo-container {
+    height: $header-height;
+    line-height: $header-height;
+    position: absolute;
+    right: 20px;
+    top: $header-height * 0.15 / 2;
+    z-index: 11;
+}
+
+.logo-container img {
+    padding-left: 10px;
+    position: relative;
+    height: $header-height * 0.85;
+}
+
+.select-container {
+    line-height: $header-height;
+    float: left;
+    padding-right: 15px;
+}

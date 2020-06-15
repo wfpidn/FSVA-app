@@ -1,0 +1,36 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_52_2015_63_enso_subdistrict_class_a/FeatureServer/0"
+    },
+    "title": "Sub-district classification of negative monthly rainfall",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "No data/Urban area"
+        },
+        {
+            "color": "RGB(204,204,204)",
+            "label": "No change"
+        },
+        {
+            "color": "RGB(255,255,212)",
+            "label": "Very low"
+        },
+        {
+            "color": "RGB(255,218,143)",
+            "label": "Low"
+        },
+        {
+            "color": "RGB(255,155,44)",
+            "label": "Moderate"
+        },
+        {
+            "color": "RGB(217,95,13)",
+            "label": "High"
+        },
+        {
+            "color": "RGB(153,52,5)",
+            "label": "Very high"
+        }
+    ]
+}

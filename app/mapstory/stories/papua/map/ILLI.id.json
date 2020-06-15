@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_94_2015_43_illi_a/FeatureServer/0"
+    },
+    "title": "Persentase perempuan buta huruf dengan usia 15 tahun ke atas",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "Tidak ada data / daerah Perkotaan"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "> 40"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "30 - 40"
+        },
+        {
+            "color": "RGB(244,161,167)",
+            "label": "20 - 30"
+        },
+        {
+            "color": "RGB(201,224,191)",
+            "label": "10 - 20"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "5 - 10"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "< 5"
+        }
+    ],
+    "indicator": {
+        "id": "ILLI"
+    }
+}

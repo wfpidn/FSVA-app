@@ -1,0 +1,96 @@
+{
+    "table": {
+        "order": [
+            [
+                0,
+                "asc"
+            ],
+            [
+                1,
+                "asc"
+            ]
+        ],
+        "columns": [
+            {
+                "title": "Tahun",
+                "width": "30%",
+                "attr": "year"
+            },
+            {
+                "title": "Provinsi",
+                "width": "35%",
+                "attr": "province"
+            },
+            {
+                "title": "%(indicator.label)s",
+                "width": "35%",
+                "attr": "value"
+            }
+        ]
+    },
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "Tidak ada data / daerah Perkotaan"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "> 40\tPrevalensi sangat tinggi"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "30 - 40\tPrevalensi tinggi"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "20 - 30\tPrevalensi sedang"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "< 20\tPrevalensi rendah"
+        }
+    ],
+    "indicator": {
+        "id": "STUN",
+        "path": "/stories/main/stunting/indicator.json"
+    },
+    "expression": {
+        "showRow": "true",
+        "showChart": "true"
+    },
+    "messages": {
+        "popup.click": "Data profil dan tren tiap kabupaten tidak tersedia untuk indicator ini. Pilih indicator lain di bawah Ketersediaan Pangan, Akses terhadap Pangan dan Pemanfaatan Pangan untuk melihat data profil dan tren tiap kabupaten."
+    },
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_riskesdas_a1_moh/FeatureServer/0",
+        "area": {
+            "dst": "provinceId",
+            "src": "A1CODE",
+            "drill": [
+                {
+                    "label": "Provinsi",
+                    "attr": "province"
+                }
+            ]
+        },
+        "extent": {
+            "xmax": 146.14,
+            "ymax": 2.46,
+            "xmin": 93.85,
+            "ymin": -7.44
+        }
+    },
+    "dataset": "/stories/main/stunting/dataset.json",
+    "modules": [
+        "/pages/map/esri-map",
+        "/pages/map/header",
+        "/pages/map/indicator",
+        "/pages/map/csv",
+        "/pages/map/map-hover",
+        "/pages/map/map-click-error"
+    ],
+    "hover": {
+        "chart": "column"
+    },
+    "title": "Prevalensi dari anak di bawah 5 tahun yang memiliki tinggi badan kurang"
+}

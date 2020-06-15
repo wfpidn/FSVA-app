@@ -1,0 +1,39 @@
+{
+    "map": {
+        "url": "http://services3.arcgis.com/t6lYS2Pmd8iVx1fy/arcgis/rest/services/idn_wfp_fsva_2015_71_vulnerability_a/FeatureServer/0"
+    },
+    "title": "Kerentanan berdasarkan pada indeks ketahanan pangan komposit",
+    "legend": [
+        {
+            "color": "RGB(255,255,255)",
+            "label": "Tidak ada data / daerah Perkotaan"
+        },
+        {
+            "color": "RGB(110,31,31)",
+            "label": "Kabupaten dengan prioritas 1"
+        },
+        {
+            "color": "RGB(232,89,97)",
+            "label": "Kabupaten dengan prioritas 2"
+        },
+        {
+            "color": "RGB(255,255,122)",
+            "label": "Kabupaten dengan prioritas 3"
+        },
+        {
+            "color": "RGB(255,217,62)",
+            "label": "Kabupaten dengan prioritas 4"
+        },
+        {
+            "color": "RGB(148,201,69)",
+            "label": "Kabupaten dengan prioritas 5"
+        },
+        {
+            "color": "RGB(59,112,59)",
+            "label": "Kabupaten dengan prioritas 6"
+        }
+    ],
+    "indicator": {
+        "id": "PRIO"
+    }
+}

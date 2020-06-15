@@ -1,0 +1,5 @@
+ 
+FSVA Online documentation uses Asciidoc format.
+
+Compile with:
+a2x -fpdf -darticle --dblatex-opts="-s asciidoc-dblatex.sty" FSVA-Online.adoc
