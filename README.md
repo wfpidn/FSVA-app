@@ -138,6 +138,6 @@ deployment to new deployment.
 If those setup and deployment notes seem complicated (it actually is), head to `scripts/ansible` directory for automated
 deployment script. It’s using [ansible](https://ansible.com/) dialect.
 
-## 5 Comtact
+## 5 Contact
 FSVA online developed by Vulnerability Analysis and Mapping unit of the United Nations World Food Programme in Indonesia.
 The online platform can be accessed through: https://fsva.wfp.or.id
